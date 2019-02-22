@@ -1,3 +1,6 @@
+#Testing out the SPOTIPY library for authentication flow
+#See https://spotipy.readthedocs.io/en/latest/?highlight=new%20leases#
+
 import spotipy
 import os
 import webbrowser
