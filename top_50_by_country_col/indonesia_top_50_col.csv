@@ -1,0 +1,51 @@
+Unnamed: 0,Country,Artists Name,Artist ID,Track Name,Track ID,Release Date,Popularity,Danceability,Energy
+0,Indonesia,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+1,Indonesia,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
+2,Indonesia,Fiersa Besari,06QVnTCdjs4jPKO0487EGV,Waktu Yang Salah (feat. Thantri),25qm0qQzdRkWe96BKuaiHt,2014-05-15,70,0.665,0.276
+3,Indonesia,JENNIE,250b0Wlc5Vk0CoUsaCY84M,SOLO,2wVDWtLKXunswWecARNILj,2018-11-12,80,0.7509999999999999,0.642
+4,Indonesia,Halsey,26VFTg2z8YR0cCuwLzESi2,Without Me,5p7ujcrUXASCNwRaWNHR1C,2018-10-04,97,0.752,0.488
+5,Indonesia,ITZY,2KC9Qb60EaY0kW4eH68vr3,달라달라 DALLA DALLA,6G7DuXoSGeAf6BZivJdEjF,2019-02-13,79,0.79,0.853
+6,Indonesia,H.E.R.,3Y7RZ31TRPVadSFVy1o8os,Best Part (feat. Daniel Caesar),4OBZT9EnhYIV17t4pGw7ig,2017-10-20,84,0.473,0.371
+7,Indonesia,SHAUN,72nLe76yBFSlP6VBzME358,Way Back Home (feat. Conor Maynard) - Sam Feldt Edit,1ZLrDPgR7mvuTco3rQK8Pk,2018-12-21,80,0.737,0.747
+8,Indonesia,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.5720000000000001,0.385
+9,Indonesia,Andmesh,6IDsZZ4IHgs9VblBgQQSmt,Cinta Luar Biasa,1Hy1CBFRXYvFL7eJT5MLlG,2018-11-02,67,0.59,0.263
+10,Indonesia,Lukas Graham,25u4wHJWxCA9vO0CzxAbK7,Love Someone,3id2EVGKc3eFAMn9nFnB0r,2018-10-26,78,0.5379999999999999,0.409
+11,Indonesia,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Sunflower - Spider-Man: Into the Spider-Verse,7dbka99KTWke5o9hRp0JoB,2019-02-22,73,0.7609999999999999,0.479
+12,Indonesia,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+13,Indonesia,Anne-Marie,1zNqDE7qDGCsyzJwohVaoX,2002,2BgEsaKNfHUdlh97KmvFyo,2018-04-27,85,0.6970000000000001,0.6829999999999999
+14,Indonesia,Lauv,5JZ7CnR6gTvEMKX4g70Amv,i'm so tired...,7COXchtUOMd6uIT6HvmRaI,2019-01-24,92,0.599,0.733
+15,Indonesia,DJ Snake,540vIaP2JwjQb9dm3aArA4,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",4w8niZpiMy6qz1mntFA5uM,2018-09-28,95,0.841,0.7979999999999999
+16,Indonesia,TheOvertunes,3t4MHnVggiFLOuSSh4odBk,Bicara (feat. Monita Tahalea),2zgiM0lbf4KpBPriKPqEMg,2018-08-31,68,0.574,0.37
+17,Indonesia,Maroon 5,04gDigrS5kc9YWfZHwBETP,Girls Like You (feat. Cardi B),7fa9MBXhVfQ8P8Df9OEbD8,2018-06-15,83,0.851,0.541
+18,Indonesia,John Mayer,0hEurMDQu99nJRq8pTxO14,New Light,40FLJc17FMZaPmCQEEZgB0,2018-06-29,31,0.828,0.6890000000000001
+19,Indonesia,Juicy Luicy,3tMTXQyRrPmMyHv5SoC0TV,Tanpa Tergesa,66wRGrt1HmeVa1wtnWMj6C,2018-02-28,67,0.703,0.29100000000000004
+20,Indonesia,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
+21,Indonesia,Wahyu,5dMBIMnqkURDpv97Gle398,Selow,1c5ZiOfMbDBHKRNuMfinOb,2017-10-10,70,0.626,0.573
+22,Indonesia,Fiersa Besari,06QVnTCdjs4jPKO0487EGV,April,31DB7WsYqarEOUSQUzMLt8,2014-05-15,66,0.364,0.466
+23,Indonesia,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Kiss and Make Up,13hvHEstJ4sNbzdroPrPI3,2015,51,0.675,0.7290000000000001
+24,Indonesia,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,96,0.687,0.792
+25,Indonesia,Jaz,78ED3zmePoZzEzeBUg0evm,Berdua Bersama (Milly & Mamet Original Motion Picture Soundtrack),37uQDKOul7QOmRFB6kiYyO,2018-11-16,67,0.578,0.529
+26,Indonesia,Fourtwnty,46cVq2dwPgzPE3X1VR9TMj,"Zona Nyaman (From ""Filosofi Kopi 2: Ben & Jody"")",4lfAvFv8roumWVKXhHF8uN,2018-04-20,67,0.515,0.649
+27,Indonesia,Hanin Dhiya,3Fw8q9sZ1t7diLxoQFS8hW,Pupus,4za8UJq7JI99ilRYQXVrkm,2018-03-30,64,0.498,0.203
+28,Indonesia,Zedd,2qxJFvFYMEDqd7ui6kSAcq,Happy Now,4keoy2fqgwGnbWlm3ZVZFa,2018-07-18,84,0.503,0.741
+29,Indonesia,Virzha,5iHfwaDNZ11Y0yAyQVYDmy,Tentang Rindu,5bG0Nj8pt4fM8LTG9PiWmu,2018-05-11,67,0.445,0.65
+30,Indonesia,3 Composers,145zDAbvELoocgZ4bZrSXe,Bangun Cinta,1xRP7GwKppuawKo4CbiTl2,2018-04-13,64,0.6890000000000001,0.35
+31,Indonesia,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,Who Do You Love (with 5 Seconds of Summer),11cDEev79fPKi6uJCjUhu8,2019-02-07,89,0.51,0.835
+32,Indonesia,Calum Scott,6ydoSd3N2mwgwBHtF6K7eX,You Are The Reason,69vToJ9BMbbLlFZo7k7A7B,2018-03-09,83,0.331,0.235
+33,Indonesia,Bazzi,4GvEc3ANtPPjt1ZJllr5Zl,Beautiful (feat. Camila Cabello),4VUwkH455At9kENOfzTqmF,2018-08-02,88,0.638,0.7170000000000001
+34,Indonesia,Sheila On 7,6q87vizIEdEN4NvlR6mjfT,Dan...,1MdjZzEInrmDBXf8zs0nKS,1999-07-14,66,0.6579999999999999,0.539
+35,Indonesia,Rizky Febian,28DdkLhrzQNizZ0ExQpyku,Menari,6erCzA5JDtU8oLVVpS4FTt,2018-11-30,65,0.5670000000000001,0.59
+36,Indonesia,Fourtwnty,46cVq2dwPgzPE3X1VR9TMj,Fana Merah Jambu,2e9ubFSxKQtJh1MDbVzMug,2018-09-05,66,0.7040000000000001,0.545
+37,Indonesia,Rizky Febian,28DdkLhrzQNizZ0ExQpyku,Berpisah Itu Mudah,52AWJPKuELTY9TjwHzXuhl,2018-06-29,33,0.682,0.562
+38,Indonesia,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,Sweet but Psycho,25sgk305KZfyuqVBQIahim,2018-08-17,96,0.7190000000000001,0.7040000000000001
+39,Indonesia,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,Close To Me (with Diplo) (feat. Swae Lee),5JEx7HbmvHQQswJCsoo9rA,2018-10-24,91,0.574,0.758
+40,Indonesia,Payung Teduh,2Ooa3TrmlskyBftzenv6xQ,Untuk Perempuan Yang Sedang Di Pelukan,0urpBLpcm6DOGzs86rcKd8,2014-11-04,66,0.47700000000000004,0.493
+41,Indonesia,Dewa 19,48bKH1ugFBhERC1rdojP9d,Kangen,5LqanqJSmZwbwPtIi2RwTb,2014-12-03,66,0.618,0.7759999999999999
+42,Indonesia,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,DDU-DU DDU-DU,2aI2k39nfa3KFsa4JclQzw,2018-06-15,75,0.6709999999999999,0.8590000000000001
+43,Indonesia,Khalid,6LuN9FCkKOj5PcnpouEgny,Talk,0rTV5WefWd1J3OwIheTzxM,2019-02-07,91,0.9,0.4
+44,Indonesia,Lauv,5JZ7CnR6gTvEMKX4g70Amv,I Like Me Better,2P91MQbaiQOfbiz9VqhqKQ,2018-05-31,75,0.752,0.505
+45,Indonesia,Queen,1dfeR4HaWDbWqFHLkxsg1d,Bohemian Rhapsody - Remastered 2011,7tFiyTwD0nx5a1eklYtX2J,1975-11-21,80,0.397,0.396
+46,Indonesia,Yovie Widianto,7Ln5yumFjHCkeZ8bAzHUcp,Adu Rayu,3FcCAFQj4bLpfxo8gj1kk9,2019-02-22,54,0.5579999999999999,0.374
+47,Indonesia,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,I'm a Mess,04ZTP5KsCypmtCmQg5tH9R,2018-06-22,85,0.63,0.6940000000000001
+48,Indonesia,Brisia Jodie,0GxxkBLH2uLa4b3URWudGb,Seandainya,6S6I7dacIYJUBvk3nyd9ba,2018-10-12,65,0.505,0.48700000000000004
+49,Indonesia,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Perfect,0tgVpDi06FyKpA1z0VMD4v,2017-03-03,88,0.599,0.44799999999999995

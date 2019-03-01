@@ -6,3 +6,4 @@ client.py
 _pycache_
 .ipynb_checkpoints
 .git
+config.py

@@ -1,0 +1,601 @@
+Unnamed: 0,Country,Artists Name,Artist ID,Track Name,Track ID,Release Date,Popularity,Danceability,Energy
+0,Argentina,Daddy Yankee,4VMYDCV2IEDYJArk749S6m,Con Calma,5w9c2J52mkdntKOmRLeM2m,2019-01-24,94,0.737,0.86
+1,Argentina,Pedro Capó,4QVBYiagIaa6ZGSPMbybpy,Calma - Remix,5iwz1NiezX7WWjnCgY5TH4,2018-10-05,96,0.826,0.773
+2,Argentina,Anuel Aa,2R21vXR83lH98kGeO99Y66,Secreto,5W83ErFkO3aKAIS1WMi6u0,2019-01-15,94,0.807,0.8029999999999999
+3,Argentina,Paulo Londra,3vQ0GE3mI0dAaxIMYe5g7z,Adan y Eva,6FyRXC8tJUh863JCkyWqtk,2018-11-05,94,0.767,0.7090000000000001
+4,Argentina,Mau y Ricky,2wkoKEfS6dXwThbyTnZWFU,Desconocidos,0s5DNDV6LAKn2u2Ufa3VjQ,2018-10-12,92,0.7090000000000001,0.7709999999999999
+5,Argentina,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,Un Año,5BDP2tky8oMQJPS33frKVp,2019-01-18,88,0.7709999999999999,0.382
+6,Argentina,Daddy Yankee,4VMYDCV2IEDYJArk749S6m,Adictiva,6MJUCumnQsQEKbCy28tbCP,2018-11-09,90,0.7879999999999999,0.7709999999999999
+7,Argentina,Duki,1bAftSH8umNcGZ0uyV7LMg,Sin Culpa (feat. DrefQuila),3dLiBBKbeUIhzGNeuo5JGS,2018-12-07,81,0.6409999999999999,0.652
+8,Argentina,Ozuna,1i8SpTcr7yvPOmcqrbnVXY,Baila Baila Baila,7uH27oIt4a6cIFCA8ZPcyG,2019-01-05,93,0.816,0.754
+9,Argentina,Paulo Londra,3vQ0GE3mI0dAaxIMYe5g7z,Forever Alone,5NPzbTzFxIQPaheZuPhn4f,2019-02-13,80,0.8640000000000001,0.426
+10,Argentina,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,Reggaeton,2D3z17LBMJ2HEHeBFFjTLi,2018-11-17,88,0.747,0.74
+11,Argentina,Anuel Aa,2R21vXR83lH98kGeO99Y66,Amanece,1LiN0Z98FkR1t0m8KmLcAH,2018-12-14,90,0.79,0.631
+12,Argentina,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.5720000000000001,0.385
+13,Argentina,Bad Bunny,4q3ewBCX7sLwd24euuV69X,MIA (feat. Drake),116H0KvKr2Zl4RPuVBruDO,2018-10-11,95,0.8170000000000001,0.539
+14,Argentina,Rombai,5KQX0Ui06LVm6PApyicRFK,Me Voy,22sESxzbY1O1E19xjOTaYf,2018-09-28,79,0.531,0.752
+15,Argentina,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+16,Argentina,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,Ya No Tiene Novio,7uQmJ1jgNzBpATSoWKSPFu,2018-08-10,86,0.632,0.8320000000000001
+17,Argentina,DJ Snake,540vIaP2JwjQb9dm3aArA4,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",4w8niZpiMy6qz1mntFA5uM,2018-09-28,95,0.841,0.7979999999999999
+18,Argentina,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,Te Vi,059bcIhyc2SBwm6sw2AZzd,2018-12-14,89,0.877,0.777
+19,Argentina,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,Puntos Suspensivos,04cd1MHVq1D8v1nuTZoCdv,2018-05-11,85,0.823,0.731
+20,Argentina,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,Imposible,4cuGZb0iFyHtwaSKdKrJkF,2019-02-01,74,0.7829999999999999,0.738
+21,Argentina,Anuel Aa,2R21vXR83lH98kGeO99Y66,Ella Quiere Beber - Remix,2cYnZNzFRFK0H7vSNxPsUq,2018-11-02,91,0.7509999999999999,0.665
+22,Argentina,Becky G,4obzFoKoKRHIphyHzJ35G3,Cuando Te Besé,2XXMDz7SPZ4mSFN1PXfHUy,2018-08-02,86,0.772,0.732
+23,Argentina,Bad Bunny,4q3ewBCX7sLwd24euuV69X,NI BIEN NI MAL,278kSqsZIiYp8p3QjYAqa8,2018-12-23,89,0.826,0.449
+24,Argentina,Cauty,2QUvtLq6oQaX0LNsYY2fas,Ta To Gucci (Remix),7kuRvjpeUcn6qNV9IBXC2C,2018-12-07,84,0.73,0.648
+25,Argentina,Karol G,790FomKkXshlbRYZFtlgla,Créeme,1mT47pKLXUwPYGwB91GcNz,2018-11-02,87,0.715,0.872
+26,Argentina,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Bubalu,7dNwJbsT0sg1le5kVugGJb,2018-11-06,88,0.8,0.355
+27,Argentina,Modo Diablo,0ulX41eWF9mhfeAhOu4EU0,"TRAP.N.EXPORT (feat. Duki, Ysy A & Neo Pistea)",3aozFlnbP7zhcJKi9O0FUz,2019-02-08,70,0.82,0.741
+28,Argentina,Kevin Roldan,1RBzGO6Nm3uyhUSxP7EDWO,PPP,1DcxnVNFAyVl2sDQ646pXS,2018-09-07,84,0.7859999999999999,0.65
+29,Argentina,Amenazzy,6kq4GHwUcUojGIu0ziSNXf,Baby,2IA8cFA46DkjgbsRG7kKbp,2018-12-21,84,0.7,0.71
+30,Argentina,Reik,0vR2qb8m9WHeZ5ByCbimq2,Amigos Con Derechos,2zDj4WjbNDmrRL6Z4YjjCA,2018-08-31,85,0.6859999999999999,0.807
+31,Argentina,6ix9ine,7gZfnEnfiaHzxARJ2LeXrf,BEBE (feat. Anuel Aa),4KkUjFkcQvGvWekl8RATDn,2018-11-27,87,0.635,0.902
+32,Argentina,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Solo de Mi,4uP3pUP18ennmz0tb3GphR,2018-12-23,81,0.743,0.73
+33,Argentina,Damas Gratis,3YeBTR1Q1rUxKguz4jP6UV,Me Vas a Extrañar - En Vivo,3CACzG9I3AoKUKA3ODE5zW,2018-09-07,75,0.419,0.809
+34,Argentina,FMK,0dUyjgCyjfj5eMx6bX2TWf,Parte de Mi (feat. Lit Killah),4OocfNloIRk77ncIKBdYwb,2019-02-07,70,0.615,0.471
+35,Argentina,Lit Killah,1vqR17Iv8VFdzure1TAXEq,Tan Bien (feat. Agus Padilla),43Q1jBoHh3pQkh3Oy7TA1g,2018-11-29,74,0.784,0.7609999999999999
+36,Argentina,Bhavi,7fT2Me47PQ8T7954PKrcwR,No Lo Entiendo,2pfV8fZZdLRsZYatVGKlUq,2019-01-24,71,0.87,0.542
+37,Argentina,Brytiago,00XhexlJEXQstHimpZN910,Asesina - Remix,59PYgzOiOjGDzjDT5N5oOX,2018-10-31,86,0.825,0.69
+38,Argentina,ChocQuibTown,6tkyhGe9hGI3Lcfo4gVh6Z,Pa Olvidarte (feat. Manuel Turizo) - Remix,2ktoFujjJtantyMoVdBJlX,2019-02-01,82,0.7240000000000001,0.7909999999999999
+39,Argentina,Manuel Turizo,0tmwSHipWxN12fsoLcFU3B,Sola,675w3ACw5xZR3ODhUJlEVN,2018-11-09,81,0.7040000000000001,0.706
+40,Argentina,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
+41,Argentina,Paulo Londra,3vQ0GE3mI0dAaxIMYe5g7z,Chica Paranormal,7zAGi1cps7yYhAajGXlFTH,2018-07-24,78,0.84,0.596
+42,Argentina,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+43,Argentina,Maluma,1r4hJ1h58CWwUQe3MxPuau,Mala Mía,62o8KoI44JfN7aYxgTnPvh,2018-08-10,84,0.7490000000000001,0.752
+44,Argentina,Ozuna,1i8SpTcr7yvPOmcqrbnVXY,Vaina Loca,48zFZh27QU5qsrBjn4C2FA,2018-08-24,88,0.754,0.805
+45,Argentina,Dalex,0KPX4Ucy9dk82uj4GpKesn,Pa Mí - Remix,224EVTFiLsdQignUFLvDeH,2019-02-07,76,0.688,0.62
+46,Argentina,Jowell & Randy,4IMAo2UQchVFyPH24PAjUs,Dile la Verdad,6qP73DRFGojLuIk1siIhNE,2019-01-11,84,0.8859999999999999,0.701
+47,Argentina,Queen,1dfeR4HaWDbWqFHLkxsg1d,Bohemian Rhapsody - Remastered 2011,7tFiyTwD0nx5a1eklYtX2J,1975-11-21,80,0.397,0.396
+48,Argentina,TINI,7vXDAI8JwjW531ouMGbfcp,Quiero Volver,5NrIX1ozc9LGt19ISgPDIY,2018-10-12,72,0.672,0.83
+49,Argentina,Karol G,790FomKkXshlbRYZFtlgla,Culpables,6q8Lb50EtqNeeJXXe8mMAH,2018-09-14,86,0.728,0.8009999999999999
+0,Brazil,Tropkillaz,5bzWtCkjIAMgN93gLt56SO,Bola Rebola,1OUPXna2MCgAt3VNmXJBtg,2019-02-22,78,0.8340000000000001,0.777
+1,Brazil,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.5720000000000001,0.385
+2,Brazil,MC Kevin o Chris,2UMj7NCbuqy1yUZmiSYGjJ,Vamos pra Gaiola,7FiIQXpIeLo3ITfGGpb8PB,2019-01-11,81,0.872,0.971
+3,Brazil,Marília Mendonça,1yR65psqiazQpeM79CcGh8,Bebi Liguei - Ao Vivo,3RbXsVQr4jeTxvT35Hssq3,2019-02-22,57,0.603,0.804
+4,Brazil,Felipe Araújo,47uyFQHOD02S0lj9ptRpoB,Atrasadinha - Ao Vivo,5EKHbW7mXcAR4hCyS3YXjb,2018-09-20,84,0.6759999999999999,0.8440000000000001
+5,Brazil,Dennis DJ,6xlRSRMLgZbsSNd0BMobwy,Agora é Tudo Meu,5yH8pYxNckOU1cxfPsMIaz,2018-12-07,84,0.848,0.933
+6,Brazil,Anitta,7FNnA9vBm6EKceENgCGRMb,Terremoto,7G2XZhDNHo7SSDWSVxC0UT,2019-02-01,83,0.8909999999999999,0.805
+7,Brazil,Mc Livinho,7me0S5Z40qVWj3gzyK8aC3,Hoje Eu Vou Parar Na Gaiola,0IQCOAw9ZAI6WnXIrl481F,2018-10-17,82,0.65,0.361
+8,Brazil,Zé Neto & Cristiano,487N2T9nIPEHrlTZLL3SQs,Notificação Preferida - Ao Vivo,2qkNnJvQvhLiZ63X1L3eFz,2018-05-18,80,0.398,0.838
+9,Brazil,Márcia Fellipe,3OxZ4asD88P1lJJmLcXz4K,Quem Me Dera,2lAyctg5FocS67eksHoyIg,2018-12-12,68,0.815,0.723
+10,Brazil,Melim,6uYrXgVHctAJtIdSODcyLJ,Ouvi Dizer,1qCLx3nX25NuhfPjM5E1qV,2018-06-08,81,0.6409999999999999,0.614
+11,Brazil,MC L da Vinte,0lHB0Qc4pmD5RkTLlHeESo,Parado no Bailão,3Hb9kUdm4yf839Fle4RIdT,2018-07-23,83,0.828,0.599
+12,Brazil,Diego & Victor Hugo,3k68C6mNMJL6OaAdWeW2ZF,Infarto,0XEJ7eph2IWFYZc73Jm3n2,2018-11-05,80,0.613,0.794
+13,Brazil,Gabriel Diniz,3WQ1s2QFvL6crxBvrVhwzj,Jenifer,7wMAgaPiKzTNxpDWu2BPfk,2019-02-01,63,0.768,0.934
+14,Brazil,Simone & Simaria,0MInKJqZscEeNc5K3K0mkE,Qualidade De Vida - Ao Vivo,5Wmg5LPPJnbMsKA9fthM3l,2019-01-09,81,0.8320000000000001,0.833
+15,Brazil,Jerry Smith,6OpOg5HVCc8xVf7OVrd5Fk,Quem Tem o Dom,2mJOngYlqgfdLMBSxPcJL3,2019-01-18,74,0.807,0.782
+16,Brazil,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+17,Brazil,Luan Santana,3qvcCP2J0fWi0m0uQDUf6r,Vingança - Ao Vivo,7KdcbYcVF8LkQeQcTYOixJ,2018-09-14,80,0.608,0.7290000000000001
+18,Brazil,MC Kevin o Chris,2UMj7NCbuqy1yUZmiSYGjJ,Medley da Gaiola - Dennis DJ Remix,7rLegaz7zKB6EtDNzcslKE,2018-08-27,81,0.897,0.757
+19,Brazil,Marília Mendonça,1yR65psqiazQpeM79CcGh8,Sem Sal - Ao Vivo,0EZuXcsnjEmGuRYdFdcctX,2019-02-22,56,0.5589999999999999,0.8440000000000001
+20,Brazil,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Poesia Acústica #6: Era uma Vez,13Rf6RaZT13TW4xLQR3MQr,2018-12-24,78,0.518,0.575
+21,Brazil,Marília Mendonça,1yR65psqiazQpeM79CcGh8,Ciumeira - Ao Vivo,7D5F5BzIon5zhzQrOU2pdN,2019-02-22,55,0.741,0.813
+22,Brazil,Wesley Safadão,1AL2GKpmRrKXkYIcASuRFa,Só Pra Castigar,2X8sssaxS5GReg6945B6RW,2018-09-12,81,0.6809999999999999,0.94
+23,Brazil,Gusttavo Lima,7MiDcPa6UiV3In7lIM71IN,Cem Mil - Ao Vivo,5eMmT4Ava5BGThju0AD8vQ,2018-10-26,78,0.901,0.8190000000000001
+24,Brazil,Gustavo Mioto,1X6ORK7IekgmyjV6IFPszP,Solteiro Não Trai - Ao Vivo,7oEr56KG6odStlQH0nvdyr,2018-12-07,78,0.493,0.8320000000000001
+25,Brazil,Maiara & Maraisa,59jlthNnbmim5l9tmNA7se,Traí Sim - Ao Vivo,3o67Yt3Ua1qlSNV22zWUAn,2018-11-30,79,0.6990000000000001,0.86
+26,Brazil,Dilsinho,4NUePmzDvCYqilXBFa91Hg,Péssimo Negócio - Ao Vivo,5MMrkwK6AgNAsgHVdC7daZ,2019-01-31,67,0.5379999999999999,0.6509999999999999
+27,Brazil,Lexa,0jTDeBJQr3unrK29LklnAv,Só Depois do Carnaval,6HtVFR6WAeJRgYtleNcEE8,2019-01-31,74,0.833,0.917
+28,Brazil,Marília Mendonça,1yR65psqiazQpeM79CcGh8,Bebaça - Ao Vivo,6YjyT6MEMsMc41NNWk2dYg,2019-02-22,66,0.6629999999999999,0.884
+29,Brazil,Henrique & Juliano,3p7PcrEHaaKLJnPUGOtRlT,"Quem Pegou, Pegou",0kCqaybZgYcLYxzZymmBoc,2018-08-20,80,0.6990000000000001,0.682
+30,Brazil,Lucas Lucco,06cd30Cv9US973Ika84gDw,Posto 24h (feat. Wesley Safadão) - Ao Vivo,3mNmUjoDHYDYj08IaRPtg0,2018-10-18,79,0.703,0.929
+31,Brazil,Lexa,0jTDeBJQr3unrK29LklnAv,Sapequinha,7LPR6AdkOQR9WpEixCGNCk,2018-08-03,79,0.677,0.984
+32,Brazil,IZA,3zgnrYIltMkgeejmvMCnes,Dona de mim,0H8CBal2Dcu5Yc001VotZN,2018-04-27,67,0.412,0.809
+33,Brazil,Lauana Prado,6TYimByryGphZCtwYopH0y,Cobaia,1xyVMQx51Kab6eLVtE6twx,2018-06-08,64,0.7509999999999999,0.7090000000000001
+34,Brazil,Melim,6uYrXgVHctAJtIdSODcyLJ,Meu Abrigo,5U28PY9MekLyCBYtLHGQpe,2018-06-08,78,0.6579999999999999,0.5720000000000001
+35,Brazil,Ludmilla,3CDoRporvSjdzTrm99a3gi,Vem amor,5rRi4RW8F99U24EAS2Cdte,2019-02-07,72,0.62,0.7040000000000001
+36,Brazil,Mc Don Juan,7Lmrb6KcIzfkmgbtokjsAL,To Gostando Tanto de Você,4HTrlT5mmxPaZZKs4JSPeI,2018-09-14,77,0.8690000000000001,0.6809999999999999
+37,Brazil,George Henrique & Rodrigo,3FlCKtwOEYQQYyGVEbxG2Z,Compartilhando Mágoa,3M6QJpWhM9NPcBwxTRKLlH,2018-12-07,72,0.795,0.68
+38,Brazil,Lagum,5D56dZmhE9DgT01XixdHiD,Deixa (feat. Ana Gabriela),3fLqmaO4vvZpFZSZy52VMp,2018-02-23,77,0.498,0.326
+39,Brazil,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Always Remember Us This Way,2rbDhOo9Fh61Bbu23T2qCk,2018-10-05,85,0.5529999999999999,0.502
+40,Brazil,Zé Neto & Cristiano,487N2T9nIPEHrlTZLL3SQs,Largado Às Traças - Ao Vivo,1IJH7QjV5V99eJBtKXqGXE,2018-05-18,79,0.6940000000000001,0.8690000000000001
+41,Brazil,Zé Neto & Cristiano,487N2T9nIPEHrlTZLL3SQs,Estado Decadente - Acústico,4eB8rsNNm5791m3uvEBNLR,2019-01-11,78,0.757,0.687
+42,Brazil,Mc Pocahontas,56yC2Kq7eS346CgJpld4Bc,Quer mais?,6zdrUt0j8guhZfcSF6X2Sb,2018-11-01,77,0.826,0.7909999999999999
+43,Brazil,Humberto & Ronaldo,1zEo6Fk1iaaOYFlFPBHCFn,Não Fala Não pra Mim,0PaAB17axL9hn88mHiw8g0,2018-06-15,79,0.741,0.794
+44,Brazil,Luan Santana,3qvcCP2J0fWi0m0uQDUf6r,Sofazinho - Ao Vivo,2PMLdLt5QeOuOgxfAvx1in,2018-09-14,78,0.517,0.875
+45,Brazil,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
+46,Brazil,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+47,Brazil,Clau,13A9x5VINTOaVnYxK4rbNQ,Pouca Pausa,2odzriVVZBwYOiYJEj30tm,2018-06-15,77,0.8859999999999999,0.583
+48,Brazil,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,96,0.687,0.792
+49,Brazil,Marília Mendonça,1yR65psqiazQpeM79CcGh8,Bem Pior Que Eu - Ao Vivo,4UANYptjv2kpV6IY7IjXoJ,2019-02-22,54,0.6709999999999999,0.652
+0,Canada,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+1,Canada,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+2,Canada,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.5720000000000001,0.385
+3,Canada,Post Malone,246dkjvS1zLTtiykXe5h60,Wow.,6MWtB6iiXyIwun0YzU6DFP,2018-12-24,98,0.833,0.539
+4,Canada,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,MIDDLE CHILD,2JvzF1RMd7lE3KmFlsyZD8,2019-01-23,95,0.8370000000000001,0.364
+5,Canada,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Sunflower - Spider-Man: Into the Spider-Verse,7dbka99KTWke5o9hRp0JoB,2019-02-22,73,0.7609999999999999,0.479
+6,Canada,YNW Melly,1cNDP5yjU5vjeR8qMf4grg,Murder On My Mind,7eBqSVxrzQZtK2mmgRG6lC,2018-08-03,88,0.759,0.73
+7,Canada,Meek Mill,20sxb77xiYeusSH8cVdatc,Going Bad (feat. Drake),2IRZnDFmlqMuOrYOLnZZyc,2018-11-30,94,0.889,0.496
+8,Canada,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,Look Back At It,3Ol2xnObFdKV9pmRD2t9x8,2018-12-21,90,0.7909999999999999,0.5870000000000001
+9,Canada,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,Robbery,44ShclXTOOnYtt5CnCDeGV,2019-02-13,85,0.708,0.691
+10,Canada,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,bury a friend,4NzMOnvSJVNKF7nw5NkXIP,2019-01-30,95,0.905,0.389
+11,Canada,Halsey,26VFTg2z8YR0cCuwLzESi2,Without Me,5p7ujcrUXASCNwRaWNHR1C,2018-10-04,97,0.752,0.488
+12,Canada,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
+13,Canada,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
+14,Canada,Khalid,6LuN9FCkKOj5PcnpouEgny,Talk,0rTV5WefWd1J3OwIheTzxM,2019-02-07,91,0.9,0.4
+15,Canada,Mustard,0YinUQ50QDB7ZxSCLyQ40k,Pure Water (with Migos),63cd4JkwGgYJrbOizbfmsp,2019-01-16,88,0.68,0.5589999999999999
+16,Canada,Blueface,3Fl1V19tmjt57oBdxXKAjJ,Thotiana,3oh6SCCeLuXhFpEyepla6G,2018-12-18,91,0.906,0.382
+17,Canada,Lauv,5JZ7CnR6gTvEMKX4g70Amv,i'm so tired...,7COXchtUOMd6uIT6HvmRaI,2019-01-24,92,0.599,0.733
+18,Canada,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,2018-08-03,94,0.8340000000000001,0.73
+19,Canada,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,96,0.687,0.792
+20,Canada,Lil Baby,5f7VJjfbwm532GiveGC0ZK,Drip Too Hard (Lil Baby & Gunna),78QR3Wp35dqAhFEc2qAGjE,2018-10-05,91,0.8959999999999999,0.6709999999999999
+21,Canada,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,Swervin (feat. 6ix9ine),1wJRveJZLSb1rjhnUHQiv6,2018-12-21,89,0.581,0.662
+22,Canada,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,Legacy (feat. Travis Scott & 21 Savage),7pMRoGLEJuFM2wl5pt0R99,2019-02-22,78,0.8440000000000001,0.513
+23,Canada,21 Savage,1URnnhqYAYcrqrcwql10ft,a lot,2t8yVaLvJ0RenpXUIAC52d,2018-12-21,92,0.8370000000000001,0.636
+24,Canada,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,Red Room,4TWflhgevIGo448fWc6mQq,2019-02-22,69,0.936,0.5589999999999999
+25,Canada,benny blanco,5CiGnKThu5ctn9pBxv7DGa,Eastside (with Halsey & Khalid),7FGq80cy8juXBCD2nrqdWU,2018-12-07,82,0.632,0.6859999999999999
+26,Canada,Kehlani,0cGUm45nv7Z6M6qdXYQGTX,Nights Like This (feat. Ty Dolla $ign),6ZRuF2n1CQxyxxAAWsKJOy,2019-02-22,68,0.61,0.725
+27,Canada,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,ZEZE (feat. Travis Scott & Offset),0FZ4Dmg8jJJAPJnvBIzD9z,2018-12-14,92,0.861,0.603
+28,Canada,Sheck Wes,2RDOrhPqAM4jzTRCEb19qX,Mo Bamba,1xzBco0xcoJEDXktl7Jxrr,2018-10-05,92,0.7290000000000001,0.625
+29,Canada,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,bad idea,7EQpvVujgytLVY8vKiDHAg,2018-02-07,72,0.86,0.5820000000000001
+30,Canada,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,needy,1TEL6MlSSVLSdhOSddidlJ,2019-02-08,91,0.607,0.314
+31,Canada,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,High Hopes,1rqqCSm0Qe4I9rUvWncaom,2018-06-22,94,0.579,0.904
+32,Canada,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,Who Do You Love (with 5 Seconds of Summer),11cDEev79fPKi6uJCjUhu8,2019-02-07,89,0.51,0.835
+33,Canada,Cardi B,4kYSro6naA4h99UJvo89HB,Please Me,0PG9fbaaHFHfre2gUVo7AN,2019-02-15,87,0.747,0.57
+34,Canada,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,NASA,4SPu0Ql902hTVXkBoNIYtq,2018-02-07,73,0.597,0.458
+35,Canada,Post Malone,246dkjvS1zLTtiykXe5h60,Better Now,7dt6x5M1jzdTEt8oCbisTK,2018-04-27,92,0.68,0.563
+36,Canada,Khalid,6LuN9FCkKOj5PcnpouEgny,Better,6zeeWid2sgw4lap2jV61PZ,2018-10-18,87,0.596,0.552
+37,Canada,Alec Benjamin,5IH6FPUwQTxPSXurCrcIov,Let Me Down Slowly,2qxmye6gAegTMjLKEBoR3d,2018-11-16,90,0.652,0.557
+38,Canada,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,Lucid Dreams,285pBltuF7vW8TeWk8hdRR,2018-12-10,91,0.511,0.5660000000000001
+39,Canada,Khalid,6LuN9FCkKOj5PcnpouEgny,Saturday Nights,5kfNriitmkNE8mUbZ7gbq8,2018-10-18,82,0.551,0.44
+40,Canada,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,bloodline,2hloaUoRonYssMuqLCBLTX,2019-02-08,91,0.765,0.6629999999999999
+41,Canada,Queen,1dfeR4HaWDbWqFHLkxsg1d,Bohemian Rhapsody - Remastered 2011,7tFiyTwD0nx5a1eklYtX2J,1975-11-21,80,0.397,0.396
+42,Canada,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,imagine,39LmTF9RgyakzSYX8txrow,2019-02-08,89,0.7090000000000001,0.474
+43,Canada,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,Startender (feat. Offset and Tyga),0jAfdqv18goRTUxm3ilRjb,2018-12-21,80,0.736,0.622
+44,Canada,5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,Youngblood,2iUXsYOEPhVqEBwsqP70rE,2018-06-15,86,0.596,0.8540000000000001
+45,Canada,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,Sweet but Psycho,25sgk305KZfyuqVBQIahim,2018-08-17,96,0.7190000000000001,0.7040000000000001
+46,Canada,Flipp Dinero,2HUwZ0kumzCSlhFcjFZfpp,Leave Me Alone,14mHfNsSHN0FbLftyjrV9g,2018-09-04,90,0.792,0.743
+47,Canada,Drake,3TVXtAsR1Inumwj472S9r4,Nonstop,0TlLq3lA83rQOYtrqBqSct,2018-06-29,88,0.912,0.412
+48,Canada,French Montana,6vXTefBL93Dj5IqAWq6OTv,No Stylist,04MLEeAMuV9IlHEsD8vF6A,2018-09-20,87,0.765,0.7040000000000001
+49,Canada,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Giant (with Rag'n'Bone Man),5itOtNx0WxtJmi1TQ3RuRd,2019-01-11,92,0.807,0.887
+0,Columbia,Anuel Aa,2R21vXR83lH98kGeO99Y66,Secreto,5W83ErFkO3aKAIS1WMi6u0,2019-01-15,94,0.807,0.8029999999999999
+1,Columbia,Daddy Yankee,4VMYDCV2IEDYJArk749S6m,Con Calma,5w9c2J52mkdntKOmRLeM2m,2019-01-24,94,0.737,0.86
+2,Columbia,Mau y Ricky,2wkoKEfS6dXwThbyTnZWFU,Desconocidos,0s5DNDV6LAKn2u2Ufa3VjQ,2018-10-12,92,0.7090000000000001,0.7709999999999999
+3,Columbia,ChocQuibTown,6tkyhGe9hGI3Lcfo4gVh6Z,Pa Olvidarte (feat. Manuel Turizo) - Remix,2ktoFujjJtantyMoVdBJlX,2019-02-01,82,0.7240000000000001,0.7909999999999999
+4,Columbia,Paulo Londra,3vQ0GE3mI0dAaxIMYe5g7z,Adan y Eva,6FyRXC8tJUh863JCkyWqtk,2018-11-05,94,0.767,0.7090000000000001
+5,Columbia,Pedro Capó,4QVBYiagIaa6ZGSPMbybpy,Calma - Remix,5iwz1NiezX7WWjnCgY5TH4,2018-10-05,96,0.826,0.773
+6,Columbia,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,Te Vi,059bcIhyc2SBwm6sw2AZzd,2018-12-14,89,0.877,0.777
+7,Columbia,Manuel Turizo,0tmwSHipWxN12fsoLcFU3B,Esclavo de Tus Besos,3g4UyIcQwutiG0TfW32GnX,2019-02-15,78,0.805,0.6709999999999999
+8,Columbia,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,Un Año,5BDP2tky8oMQJPS33frKVp,2019-01-18,88,0.7709999999999999,0.382
+9,Columbia,Dalex,0KPX4Ucy9dk82uj4GpKesn,Pa Mí - Remix,224EVTFiLsdQignUFLvDeH,2019-02-07,76,0.688,0.62
+10,Columbia,Ozuna,1i8SpTcr7yvPOmcqrbnVXY,Baila Baila Baila,7uH27oIt4a6cIFCA8ZPcyG,2019-01-05,93,0.816,0.754
+11,Columbia,Anuel Aa,2R21vXR83lH98kGeO99Y66,Ella Quiere Beber - Remix,2cYnZNzFRFK0H7vSNxPsUq,2018-11-02,91,0.7509999999999999,0.665
+12,Columbia,Manuel Turizo,0tmwSHipWxN12fsoLcFU3B,Sola,675w3ACw5xZR3ODhUJlEVN,2018-11-09,81,0.7040000000000001,0.706
+13,Columbia,Anuel Aa,2R21vXR83lH98kGeO99Y66,Amanece,1LiN0Z98FkR1t0m8KmLcAH,2018-12-14,90,0.79,0.631
+14,Columbia,Bad Bunny,4q3ewBCX7sLwd24euuV69X,MIA (feat. Drake),116H0KvKr2Zl4RPuVBruDO,2018-10-11,95,0.8170000000000001,0.539
+15,Columbia,Karol G,790FomKkXshlbRYZFtlgla,Créeme,1mT47pKLXUwPYGwB91GcNz,2018-11-02,87,0.715,0.872
+16,Columbia,Jowell & Randy,4IMAo2UQchVFyPH24PAjUs,Dile la Verdad,6qP73DRFGojLuIk1siIhNE,2019-01-11,84,0.8859999999999999,0.701
+17,Columbia,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,Reggaeton,2D3z17LBMJ2HEHeBFFjTLi,2018-11-17,88,0.747,0.74
+18,Columbia,Daddy Yankee,4VMYDCV2IEDYJArk749S6m,Adictiva,6MJUCumnQsQEKbCy28tbCP,2018-11-09,90,0.7879999999999999,0.7709999999999999
+19,Columbia,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+20,Columbia,Amenazzy,6kq4GHwUcUojGIu0ziSNXf,Baby,2IA8cFA46DkjgbsRG7kKbp,2018-12-21,84,0.7,0.71
+21,Columbia,Kenny Man,6SGvRyZuaSuWmP6IWUKpGf,Ni Gucci Ni Prada,32lexhcz93AinKK0qLTZaZ,2018-09-14,84,0.799,0.6759999999999999
+22,Columbia,DJ Snake,540vIaP2JwjQb9dm3aArA4,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",4w8niZpiMy6qz1mntFA5uM,2018-09-28,95,0.841,0.7979999999999999
+23,Columbia,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,No Es Justo,5qFeMRz4TvetPmzjre9Dq7,2018-05-25,80,0.684,0.8109999999999999
+24,Columbia,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Bubalu,7dNwJbsT0sg1le5kVugGJb,2018-11-06,88,0.8,0.355
+25,Columbia,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.5720000000000001,0.385
+26,Columbia,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,Puntos Suspensivos,04cd1MHVq1D8v1nuTZoCdv,2018-05-11,85,0.823,0.731
+27,Columbia,Ozuna,1i8SpTcr7yvPOmcqrbnVXY,Vaina Loca,48zFZh27QU5qsrBjn4C2FA,2018-08-24,88,0.754,0.805
+28,Columbia,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,Ya No Tiene Novio,7uQmJ1jgNzBpATSoWKSPFu,2018-08-10,86,0.632,0.8320000000000001
+29,Columbia,Reykon,3PAwspMN27PDm81WwXDsMf,Domingo (feat. Cosculluela),6ayCEojiJIe5d8DwXVlGU4,2018-10-26,78,0.816,0.733
+30,Columbia,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Solo de Mi,4uP3pUP18ennmz0tb3GphR,2018-12-23,81,0.743,0.73
+31,Columbia,Mike Bahía,1phfTBIocBW3UwqcYjaEN6,Esta Noche,7vFmnmcsp41uzBUiw1zxfw,2018-11-30,72,0.727,0.85
+32,Columbia,Ozuna,1i8SpTcr7yvPOmcqrbnVXY,Ibiza,1h9P5WJwyvK8OB7O2YiXgp,2018-08-24,84,0.691,0.71
+33,Columbia,Queen,1dfeR4HaWDbWqFHLkxsg1d,Bohemian Rhapsody - Remastered 2011,7tFiyTwD0nx5a1eklYtX2J,1975-11-21,80,0.397,0.396
+34,Columbia,Zion & Lennox,21451j1KhjAiaYKflxBjr1,La Player (Bandolera),0VKkyBKCXyR99navhVRqcP,2018-02-16,82,0.769,0.838
+35,Columbia,Manuel Turizo,0tmwSHipWxN12fsoLcFU3B,Culpables,3RD0PGolM0mETGHaprwgMn,2018-07-27,78,0.573,0.31
+36,Columbia,Brytiago,00XhexlJEXQstHimpZN910,Asesina - Remix,59PYgzOiOjGDzjDT5N5oOX,2018-10-31,86,0.825,0.69
+37,Columbia,Nacho,2ayNSoKPCRAfjp6hQ76hRu,Déjalo,4VTTpwcAxVSQNzEZLi75d0,2018-11-30,81,0.743,0.795
+38,Columbia,Karol G,790FomKkXshlbRYZFtlgla,Culpables,6q8Lb50EtqNeeJXXe8mMAH,2018-09-14,86,0.728,0.8009999999999999
+39,Columbia,ChocQuibTown,6tkyhGe9hGI3Lcfo4gVh6Z,Pa Olvidarte,0NCMHQFpWVDK199pKR2Y7V,2018-11-02,72,0.7290000000000001,0.805
+40,Columbia,Becky G,4obzFoKoKRHIphyHzJ35G3,Cuando Te Besé,2XXMDz7SPZ4mSFN1PXfHUy,2018-08-02,86,0.772,0.732
+41,Columbia,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,Imposible,4cuGZb0iFyHtwaSKdKrJkF,2019-02-01,74,0.7829999999999999,0.738
+42,Columbia,Mario Bautista,0AspLZGQkP38yddNoD0pLn,Baby Girl (feat. Lalo Ebratt),6o8ogTrSX8H0F66Pdz3Tsc,2018-08-17,84,0.804,0.705
+43,Columbia,Mike Bahía,1phfTBIocBW3UwqcYjaEN6,Serenata,0Ek2vjTPwy3fXKQnsXy8MH,2018-10-12,73,0.757,0.8240000000000001
+44,Columbia,Kevin Roldan,1RBzGO6Nm3uyhUSxP7EDWO,PPP - Remix,3jOn1ZdPldABfKQY4JBhov,2019-01-25,78,0.8029999999999999,0.7490000000000001
+45,Columbia,Anuel Aa,2R21vXR83lH98kGeO99Y66,Quiere Beber,3rPAD722s5FFNnwjC91t7Z,2018-07-17,83,0.773,0.57
+46,Columbia,Cali Y El Dandee,5DUlefCLzVRzNWaNURTFpK,Ay Corazón,3DN6Gss0WIEMXc1AvnrAA5,2019-02-13,69,0.727,0.7120000000000001
+47,Columbia,Kevin Roldan,1RBzGO6Nm3uyhUSxP7EDWO,PPP,1DcxnVNFAyVl2sDQ646pXS,2018-09-07,84,0.7859999999999999,0.65
+48,Columbia,Andrés Cepeda,49Z1AvGeUaBSanPaOmplK6,Magia (feat. Sebastian Yatra),6xAhkN7uE1qdhPa8jZwhTb,2018-08-24,68,0.458,0.705
+49,Columbia,Reik,0vR2qb8m9WHeZ5ByCbimq2,Amigos Con Derechos,2zDj4WjbNDmrRL6Z4YjjCA,2018-08-31,85,0.6859999999999999,0.807
+0,France,Ninho,6Te49r3A6f5BiIgBRxH7FH,Goutte d’eau,5ojNTROUJJgCFFbdD3xTZn,2019-02-21,76,0.6629999999999999,0.685
+1,France,Heuss L'enfoiré,3YwqjMyrRfuixi2pbgTGCE,Khapta,6stxV2bl7xSiPUornxwyNR,2019-01-25,80,0.8109999999999999,0.6920000000000001
+2,France,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+3,France,Angèle,3QVolfxko2UyCOtexhVTli,Tout oublier,06O3hxudc6V0BOuoCFSy71,2018-10-05,78,0.6920000000000001,0.542
+4,France,Heuss L'enfoiré,3YwqjMyrRfuixi2pbgTGCE,Les méchants,0r64LBR8RlnXcdd5HTFubd,2019-01-25,75,0.675,0.626
+5,France,Lomepal,1Yfe3ONJlioHys7jwHdfVm,Trop beau,4WB9OeauHXnGOMUK4s80gM,2018-12-07,77,0.748,0.66
+6,France,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.5720000000000001,0.385
+7,France,Lomepal,1Yfe3ONJlioHys7jwHdfVm,1000°C,6l7PqWKsgm4NLomOE7Veou,2018-12-07,73,0.706,0.5529999999999999
+8,France,Bramsito,1WDkNp8Duv9QhO246S4dDa,Sale mood,7oxSh7uiB74lWGVIv2Qtlm,2018-11-01,76,0.685,0.7609999999999999
+9,France,Roméo Elvis,2pHk4wAmL7ofTAuvCIUWtv,Malade,0MEriM1ajYAQOZTzLSz7o7,2019-02-21,66,0.669,0.6409999999999999
+10,France,Kaaris,1ntQKIMIgESKpKoNXVBvQg,Gun salute,5UgUGPknu6JRgawaJAO9rX,2019-01-25,69,0.862,0.5329999999999999
+11,France,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,Sweet but Psycho,25sgk305KZfyuqVBQIahim,2018-08-17,96,0.7190000000000001,0.7040000000000001
+12,France,Maes,6L34dW6SKMSDaGIfYDU19j,Madrina,4miiqu2dxOhBguQDHtqssH,2018-11-29,68,0.736,0.797
+13,France,Eva,5nH2klYTzn8CNvUv1GOGQO,On Fleek,4MSFxqmkiMxq7e61jTqgqt,2019-01-11,75,0.735,0.764
+14,France,Hamza,5gs4Sm2WQUkcGeikMcVHbh,HS (feat. SCH),3Orh7rBLR3SbekWQQs3N1L,2019-02-22,63,0.7290000000000001,0.512
+15,France,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Giant (with Rag'n'Bone Man),5itOtNx0WxtJmi1TQ3RuRd,2019-01-11,92,0.807,0.887
+16,France,Booba,58wXmynHaAWI5hwlPZP3qL,PGP,38Eq6RgIxOdt4twqyVAPCn,2019-01-24,75,0.8029999999999999,0.5329999999999999
+17,France,Koba LaD,1q7T9rFQ2a2ukA1PU51fo3,Aventador,4je4fmupGLC9rTN4VgZRgY,2019-02-14,69,0.82,0.657
+18,France,Aya Nakamura,7IlRNXHjoOCgEAWN5qYksg,La dot,3aRgAfrt6aQW8IimLq2aVG,2018-11-02,75,0.752,0.514
+19,France,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+20,France,Bad Bunny,4q3ewBCX7sLwd24euuV69X,MIA (feat. Drake),116H0KvKr2Zl4RPuVBruDO,2018-10-11,95,0.8170000000000001,0.539
+21,France,Jain,2HHmvvSQ44ePDH7IKVzgK0,Oh Man,0F3fscqwFqD52Tpbep5hBW,2018-08-24,72,0.878,0.477
+22,France,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,Say My Name,0YammaEkYSeo9vQYZ1OwS6,2018-09-14,88,0.703,0.66
+23,France,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,High Hopes,1rqqCSm0Qe4I9rUvWncaom,2018-06-22,94,0.579,0.904
+24,France,Robin Schulz,3t5xRXzsuZmMDkQzgOX35S,Speechless (feat. Erika Sirola),1rCcsYnmqbMYdkG7kS9GC5,2018-11-16,87,0.574,0.728
+25,France,Kpoint,3ABLHSKKZzNcgpBuXvLB9W,Ma 6t a craqué (feat. Ninho),2KtpMkc1TS1FMwy9FR0gCM,2019-02-15,52,0.816,0.684
+26,France,Heuss L'enfoiré,3YwqjMyrRfuixi2pbgTGCE,L'enfoiré,2S8wxDFED8PAo4ZqhyMRh2,2019-01-25,71,0.652,0.621
+27,France,Diplo,5fMUXHkw8R8eOP2RNVYEZX,Boom Bye Bye,3JgDeryfh6Z9P0b8plZTwF,2019-01-24,71,0.6859999999999999,0.7959999999999999
+28,France,Hornet La Frappe,1kwzW1IszUiq4Gs9BFesvW,Sheitana (feat. Ninho),1GOIfWQmA3Tp6GlwcCd35K,2018-09-21,71,0.851,0.626
+29,France,RK,2s7fZ34RK8RUJQ2ewsh6I5,Rédemption,2ZyJthCTd4r7yLIWuIxFcb,2019-02-07,70,0.846,0.8390000000000001
+30,France,GLK,3dH7pcBScIJQboDyMzUzez,Mauvais,3ABwQntK8i49EGOd3SSj7Q,2018-11-30,71,0.867,0.68
+31,France,PLK,3DCWeG2J1fZeu0Oe6i5Q6m,Dingue,4a4cTUsFiyPN8jaHt2xf18,2019-02-01,70,0.6759999999999999,0.675
+32,France,Angèle,3QVolfxko2UyCOtexhVTli,Balance ton quoi,2jX5c5RFp0A9E1GDsvGxIa,2018-10-05,71,0.703,0.442
+33,France,XXXTENTACION,15UsOTVnJzReFVN1VCnxy4,Arms Around You (feat. Maluma & Swae Lee),2LskIZrCeLxRvCiGP8gxlh,2018-10-25,90,0.703,0.723
+34,France,Ninho,6Te49r3A6f5BiIgBRxH7FH,Binks to Binks 6,4zrEmFA3R3JngfWR70zu3w,2019-01-01,71,0.617,0.691
+35,France,Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,Nothing Breaks Like a Heart (feat. Miley Cyrus),27rdGxbavYJeBphck5MZAF,2018-11-30,92,0.601,0.794
+36,France,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
+37,France,Pedro Capó,4QVBYiagIaa6ZGSPMbybpy,Calma - Remix,5iwz1NiezX7WWjnCgY5TH4,2018-10-05,96,0.826,0.773
+38,France,Shay,3MNnSV5hDd2UzZzgqD8xlU,Notif,4K6xOnJQowVf9QL5Qrr86A,2019-02-21,62,0.757,0.7340000000000001
+39,France,Lost Frequencies,7f5Zgnp2spUuuzKplmRkt7,Like I Love You (feat. The NGHBRS),30K9xVNSog0DVr5ey5yVoY,2018-09-14,70,0.863,0.588
+40,France,Heuss L'enfoiré,3YwqjMyrRfuixi2pbgTGCE,Aristocrate,7gNlaZaMIjRUfnAYd9Dvmt,2019-01-25,69,0.935,0.613
+41,France,Maes,6L34dW6SKMSDaGIfYDU19j,Billets verts,3uTNli5uz5rNOqD6qZFi8L,2018-11-29,65,0.664,0.573
+42,France,Zola,54kCbQZaZWHnwwj9VP2hn4,Zolabeille,30KebKTywCUJuheOI8RG8a,2019-02-22,59,0.8140000000000001,0.473
+43,France,Orelsan,4FpJcNgOvIpSBeJgRg3OfN,Rêves bizarres (feat. Damso),7lhuM9WUqdThw72dCBRmQW,2018-11-16,73,0.816,0.652
+44,France,Ozuna,1i8SpTcr7yvPOmcqrbnVXY,Baila Baila Baila,7uH27oIt4a6cIFCA8ZPcyG,2019-01-05,93,0.816,0.754
+45,France,Dean Lewis,3QSQFmccmX81fWCUSPTS7y,Be Alright,3EPXxR3ImUwfayaurPi3cm,2018-06-29,92,0.5529999999999999,0.586
+46,France,Koba LaD,1q7T9rFQ2a2ukA1PU51fo3,FeFe,369Vi2C4a73xhxhowHNbSR,2019-01-29,70,0.8909999999999999,0.6
+47,France,Lacrim,7DUTsWY3RBd64vh8UtgtYA,Solo,6z98rQO7KJLzFAkFflWsjf,2019-02-08,62,0.7040000000000001,0.846
+48,France,Rim'K,2eh8cEKZk4VeruUrGq748D,Air Max,0RTvfKVdkt10ATfJ8BjMEI,2018-09-21,63,0.82,0.591
+49,France,DJ Snake,540vIaP2JwjQb9dm3aArA4,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",4w8niZpiMy6qz1mntFA5uM,2018-09-28,95,0.841,0.7979999999999999
+0,Germany,KC Rebell,5p7mWeX4RlvqBCxylfiXdE,DNA,4BD9yUEFI07WaDJ381DDMq,2019-02-15,80,0.828,0.6859999999999999
+1,Germany,Capital Bra,4WZGDpNwrC0vNQyl9QzF7d,Capital Bra je m'appelle,6VMAFT0zfide2Jg8MVZAPz,2019-02-22,74,0.626,0.768
+2,Germany,Shirin David,0JBdTCGs111JKKYfLqOEBa,Gib Ihm,5iIgIxtMNeogKaFUfvuAbs,2019-02-15,79,0.928,0.402
+3,Germany,Eno,3GBBxBdoolb0B5YizZq9bF,Ferrari,4AgK0CwpwcekXVdAoYB2VO,2019-02-08,84,0.73,0.725
+4,Germany,Azet,39KEQQAG9JhIt71g9NEVhh,Fragen,26pr9oLIVAc1L62F2exIRT,2019-02-22,73,0.8390000000000001,0.733
+5,Germany,Capital Bra,4WZGDpNwrC0vNQyl9QzF7d,Prinzessa,7r55d7IhAj5UGKiYbXBwRP,2019-01-25,84,0.732,0.583
+6,Germany,Azet,39KEQQAG9JhIt71g9NEVhh,Hallo Hallo,3aYAAXlB1yvUs5MJ0FI3bh,2019-02-08,80,0.784,0.654
+7,Germany,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+8,Germany,MERO,5wyWp867LWGjFmYZXVSFnZ,Hobby Hobby,260R90ctQ1SiPax90PuEsT,2019-01-18,83,0.737,0.75
+9,Germany,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,Sweet but Psycho,25sgk305KZfyuqVBQIahim,2018-08-17,96,0.7190000000000001,0.7040000000000001
+10,Germany,Loredana,2Im8m4STDBosjfmb5hmP80,ROMEO & JULIET,3uB8KqnEoQq5bTQ1JFHJ7Y,2019-02-01,80,0.644,0.68
+11,Germany,Capital Bra,4WZGDpNwrC0vNQyl9QzF7d,Benzema,7KPGeiXWDsGEvFK62wzU8E,2018-12-21,82,0.7829999999999999,0.6920000000000001
+12,Germany,Nimo,3ZuBEj9ppJe8GSdKaMTfMN,Leyla,08OFGhKf7mK1BGhzMtXaqo,2019-02-15,75,0.838,0.66
+13,Germany,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+14,Germany,Fero47,4A7HeXSd4HtQuf6IR5XZ1b,JAJA,5z3vuYzS9UF6rD6TmBEdUf,2019-01-11,80,0.787,0.8390000000000001
+15,Germany,Robin Schulz,3t5xRXzsuZmMDkQzgOX35S,Speechless (feat. Erika Sirola),1rCcsYnmqbMYdkG7kS9GC5,2018-11-16,87,0.574,0.728
+16,Germany,Pietro Lombardi,387fj6TuPJ3y2H8ViAm6r0,Nur ein Tanz,6oaNpCVXUtmG0eKxsPO6Uf,2019-02-15,73,0.652,0.752
+17,Germany,MERO,5wyWp867LWGjFmYZXVSFnZ,Baller los,1IPRghUN3LFPNbCTsfBJx9,2018-11-23,81,0.642,0.598
+18,Germany,Post Malone,246dkjvS1zLTtiykXe5h60,Wow.,6MWtB6iiXyIwun0YzU6DFP,2018-12-24,98,0.833,0.539
+19,Germany,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Giant (with Rag'n'Bone Man),5itOtNx0WxtJmi1TQ3RuRd,2019-01-11,92,0.807,0.887
+20,Germany,Kool Savas,1SUu1Bi7ev9HbOzyVC77qD,Deine Mutter (feat. Nessi),4y8xXLG9O3Rbl6e1KaNRTG,2019-02-08,67,0.654,0.836
+21,Germany,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.5720000000000001,0.385
+22,Germany,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,High Hopes,1rqqCSm0Qe4I9rUvWncaom,2018-06-22,94,0.579,0.904
+23,Germany,Halsey,26VFTg2z8YR0cCuwLzESi2,Without Me,5p7ujcrUXASCNwRaWNHR1C,2018-10-04,97,0.752,0.488
+24,Germany,Sido,4Yttlv9ndGjCDCVLqM7ACq,Tausend Tattoos,2PAYSgrVOBz8RJqp9B7QLu,2018-12-07,71,0.675,0.8029999999999999
+25,Germany,Daddy Yankee,4VMYDCV2IEDYJArk749S6m,Con Calma,5w9c2J52mkdntKOmRLeM2m,2019-01-24,94,0.737,0.86
+26,Germany,Bonez MC,1aS5tqEs9ci5P9KD9tZWa6,500 PS,4UOXo3xWnxYdTf3sFyRaUG,2018-10-05,78,0.805,0.924
+27,Germany,KitschKrieg,5tHiL8SKSaZGMBUPIiSmX4,"Standard (feat. Trettmann, Gringo, Ufo361 & Gzuz)",4Nip6oiJU24LqcUEi7u19S,2018-10-19,79,0.826,0.76
+28,Germany,C ARMA,1wLLRA70itxEltujaQlLiT,Yapma,1194zYf7UfSXP4omxVTmPa,2018-12-21,74,0.7709999999999999,0.711
+29,Germany,Shindy,5j21TGkrNEAJe3gG9VlS34,DODI,63THFs9ovzO3WQsz4lzh0H,2019-01-11,80,0.823,0.56
+30,Germany,HUGEL,5PlfkPxwCpRRWQJBxCa0By,WTF (feat. Amber Van Day),0gn93i7HJt0calph67R5Wu,2018-11-30,77,0.8079999999999999,0.737
+31,Germany,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,bury a friend,4NzMOnvSJVNKF7nw5NkXIP,2019-01-30,95,0.905,0.389
+32,Germany,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,Look Back At It,3Ol2xnObFdKV9pmRD2t9x8,2018-12-21,90,0.7909999999999999,0.5870000000000001
+33,Germany,Alle Farben,61ipISvUVa5LkJlKZnm3Oo,Fading,2RP8Svo0pMwZXnVcmOffDw,2018-11-02,79,0.7340000000000001,0.76
+34,Germany,NOTD,5jAMCwdNHWr7JThxtMuEyy,So Close,7FjZU7XFs7P9jHI9Z0yRhK,2018-11-02,86,0.7,0.872
+35,Germany,KitschKrieg,5tHiL8SKSaZGMBUPIiSmX4,"5 Minuten (feat. Cro, AnnenMayKantereit, Trettmann)",1rciHe0jRJnF3J6CuAwOH0,2019-02-08,74,0.84,0.718
+36,Germany,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,Say My Name,0YammaEkYSeo9vQYZ1OwS6,2018-09-14,88,0.703,0.66
+37,Germany,King Khalil,08ao8gzTHBtNf5Laf9jjwR,G Klasse (feat. Lil Lano & M.O.030),6Xt6kg1kGrZCi4gJhijxeT,2019-02-01,68,0.865,0.5710000000000001
+38,Germany,Lauv,5JZ7CnR6gTvEMKX4g70Amv,i'm so tired...,7COXchtUOMd6uIT6HvmRaI,2019-01-24,92,0.599,0.733
+39,Germany,Dynoro,3v6Ji4uoWtKRkhuDUaxi9n,In My Mind,0E9ZjEAyAwOXZ7wJC0PD33,2018-06-08,89,0.6940000000000001,0.77
+40,Germany,Kontra K,4lDiJcOJ2GLCK6p9q5BgfK,Nur ein Grund (feat. Jah Khalib),1t7cJh7t5O5pgwkjZJv8pq,2019-02-15,71,0.7290000000000001,0.6509999999999999
+41,Germany,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,96,0.687,0.792
+42,Germany,Azet,39KEQQAG9JhIt71g9NEVhh,Wenn die Sonne untergeht,23N0z3XkwS2ErcNKsgCWAb,2019-01-18,78,0.609,0.8290000000000001
+43,Germany,LX,10XY9PZCJKzUFzZOdtlQLU,HaifischNikez Allstars,0kLA41xkWzzYzMIEGFuDkP,2018-12-28,78,0.764,0.7440000000000001
+44,Germany,KC Rebell,5p7mWeX4RlvqBCxylfiXdE,Hasso,3TN6azWcvHM18VxhYVB1AG,2019-02-03,75,0.812,0.6559999999999999
+45,Germany,DJ Snake,540vIaP2JwjQb9dm3aArA4,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",4w8niZpiMy6qz1mntFA5uM,2018-09-28,95,0.841,0.7979999999999999
+46,Germany,Samra,6h1s4i4XKIYv4ErDelLDN0,Cataleya,3MrTi2XjvQCZm8V1P1ryuR,2018-11-09,76,0.708,0.794
+47,Germany,Mois,68LM3gnzfl4W5fkfLIxbQJ,Keller oder Cockschelle,4Lvu8RdqSW4uH6SHKgOfKq,2019-02-21,65,0.7340000000000001,0.871
+48,Germany,Nimo,3ZuBEj9ppJe8GSdKaMTfMN,Zoey,0dGSOCj6hdV5Nr0V8FjONc,2018-12-14,76,0.836,0.718
+49,Germany,Capital Bra,4WZGDpNwrC0vNQyl9QzF7d,Ich liebe es (feat. XATAR & SAMY),71XGMPKmWtVxO7bGcGZhbn,2018-11-02,71,0.5489999999999999,0.735
+0,Indonesia,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+1,Indonesia,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
+2,Indonesia,Fiersa Besari,06QVnTCdjs4jPKO0487EGV,Waktu Yang Salah (feat. Thantri),25qm0qQzdRkWe96BKuaiHt,2014-05-15,70,0.665,0.276
+3,Indonesia,JENNIE,250b0Wlc5Vk0CoUsaCY84M,SOLO,2wVDWtLKXunswWecARNILj,2018-11-12,80,0.7509999999999999,0.642
+4,Indonesia,Halsey,26VFTg2z8YR0cCuwLzESi2,Without Me,5p7ujcrUXASCNwRaWNHR1C,2018-10-04,97,0.752,0.488
+5,Indonesia,ITZY,2KC9Qb60EaY0kW4eH68vr3,달라달라 DALLA DALLA,6G7DuXoSGeAf6BZivJdEjF,2019-02-13,79,0.79,0.853
+6,Indonesia,H.E.R.,3Y7RZ31TRPVadSFVy1o8os,Best Part (feat. Daniel Caesar),4OBZT9EnhYIV17t4pGw7ig,2017-10-20,84,0.473,0.371
+7,Indonesia,SHAUN,72nLe76yBFSlP6VBzME358,Way Back Home (feat. Conor Maynard) - Sam Feldt Edit,1ZLrDPgR7mvuTco3rQK8Pk,2018-12-21,80,0.737,0.747
+8,Indonesia,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.5720000000000001,0.385
+9,Indonesia,Andmesh,6IDsZZ4IHgs9VblBgQQSmt,Cinta Luar Biasa,1Hy1CBFRXYvFL7eJT5MLlG,2018-11-02,67,0.59,0.263
+10,Indonesia,Lukas Graham,25u4wHJWxCA9vO0CzxAbK7,Love Someone,3id2EVGKc3eFAMn9nFnB0r,2018-10-26,78,0.5379999999999999,0.409
+11,Indonesia,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Sunflower - Spider-Man: Into the Spider-Verse,7dbka99KTWke5o9hRp0JoB,2019-02-22,73,0.7609999999999999,0.479
+12,Indonesia,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+13,Indonesia,Anne-Marie,1zNqDE7qDGCsyzJwohVaoX,2002,2BgEsaKNfHUdlh97KmvFyo,2018-04-27,85,0.6970000000000001,0.6829999999999999
+14,Indonesia,Lauv,5JZ7CnR6gTvEMKX4g70Amv,i'm so tired...,7COXchtUOMd6uIT6HvmRaI,2019-01-24,92,0.599,0.733
+15,Indonesia,DJ Snake,540vIaP2JwjQb9dm3aArA4,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",4w8niZpiMy6qz1mntFA5uM,2018-09-28,95,0.841,0.7979999999999999
+16,Indonesia,TheOvertunes,3t4MHnVggiFLOuSSh4odBk,Bicara (feat. Monita Tahalea),2zgiM0lbf4KpBPriKPqEMg,2018-08-31,68,0.574,0.37
+17,Indonesia,Maroon 5,04gDigrS5kc9YWfZHwBETP,Girls Like You (feat. Cardi B),7fa9MBXhVfQ8P8Df9OEbD8,2018-06-15,83,0.851,0.541
+18,Indonesia,John Mayer,0hEurMDQu99nJRq8pTxO14,New Light,40FLJc17FMZaPmCQEEZgB0,2018-06-29,31,0.828,0.6890000000000001
+19,Indonesia,Juicy Luicy,3tMTXQyRrPmMyHv5SoC0TV,Tanpa Tergesa,66wRGrt1HmeVa1wtnWMj6C,2018-02-28,67,0.703,0.29100000000000004
+20,Indonesia,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
+21,Indonesia,Wahyu,5dMBIMnqkURDpv97Gle398,Selow,1c5ZiOfMbDBHKRNuMfinOb,2017-10-10,70,0.626,0.573
+22,Indonesia,Fiersa Besari,06QVnTCdjs4jPKO0487EGV,April,31DB7WsYqarEOUSQUzMLt8,2014-05-15,66,0.364,0.466
+23,Indonesia,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Kiss and Make Up,13hvHEstJ4sNbzdroPrPI3,2015,51,0.675,0.7290000000000001
+24,Indonesia,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,96,0.687,0.792
+25,Indonesia,Jaz,78ED3zmePoZzEzeBUg0evm,Berdua Bersama (Milly & Mamet Original Motion Picture Soundtrack),37uQDKOul7QOmRFB6kiYyO,2018-11-16,67,0.578,0.529
+26,Indonesia,Fourtwnty,46cVq2dwPgzPE3X1VR9TMj,"Zona Nyaman (From ""Filosofi Kopi 2: Ben & Jody"")",4lfAvFv8roumWVKXhHF8uN,2018-04-20,67,0.515,0.649
+27,Indonesia,Hanin Dhiya,3Fw8q9sZ1t7diLxoQFS8hW,Pupus,4za8UJq7JI99ilRYQXVrkm,2018-03-30,64,0.498,0.203
+28,Indonesia,Zedd,2qxJFvFYMEDqd7ui6kSAcq,Happy Now,4keoy2fqgwGnbWlm3ZVZFa,2018-07-18,84,0.503,0.741
+29,Indonesia,Virzha,5iHfwaDNZ11Y0yAyQVYDmy,Tentang Rindu,5bG0Nj8pt4fM8LTG9PiWmu,2018-05-11,67,0.445,0.65
+30,Indonesia,3 Composers,145zDAbvELoocgZ4bZrSXe,Bangun Cinta,1xRP7GwKppuawKo4CbiTl2,2018-04-13,64,0.6890000000000001,0.35
+31,Indonesia,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,Who Do You Love (with 5 Seconds of Summer),11cDEev79fPKi6uJCjUhu8,2019-02-07,89,0.51,0.835
+32,Indonesia,Calum Scott,6ydoSd3N2mwgwBHtF6K7eX,You Are The Reason,69vToJ9BMbbLlFZo7k7A7B,2018-03-09,83,0.331,0.235
+33,Indonesia,Bazzi,4GvEc3ANtPPjt1ZJllr5Zl,Beautiful (feat. Camila Cabello),4VUwkH455At9kENOfzTqmF,2018-08-02,88,0.638,0.7170000000000001
+34,Indonesia,Sheila On 7,6q87vizIEdEN4NvlR6mjfT,Dan...,1MdjZzEInrmDBXf8zs0nKS,1999-07-14,66,0.6579999999999999,0.539
+35,Indonesia,Rizky Febian,28DdkLhrzQNizZ0ExQpyku,Menari,6erCzA5JDtU8oLVVpS4FTt,2018-11-30,65,0.5670000000000001,0.59
+36,Indonesia,Fourtwnty,46cVq2dwPgzPE3X1VR9TMj,Fana Merah Jambu,2e9ubFSxKQtJh1MDbVzMug,2018-09-05,66,0.7040000000000001,0.545
+37,Indonesia,Rizky Febian,28DdkLhrzQNizZ0ExQpyku,Berpisah Itu Mudah,52AWJPKuELTY9TjwHzXuhl,2018-06-29,33,0.682,0.562
+38,Indonesia,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,Sweet but Psycho,25sgk305KZfyuqVBQIahim,2018-08-17,96,0.7190000000000001,0.7040000000000001
+39,Indonesia,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,Close To Me (with Diplo) (feat. Swae Lee),5JEx7HbmvHQQswJCsoo9rA,2018-10-24,91,0.574,0.758
+40,Indonesia,Payung Teduh,2Ooa3TrmlskyBftzenv6xQ,Untuk Perempuan Yang Sedang Di Pelukan,0urpBLpcm6DOGzs86rcKd8,2014-11-04,66,0.477,0.493
+41,Indonesia,Dewa 19,48bKH1ugFBhERC1rdojP9d,Kangen,5LqanqJSmZwbwPtIi2RwTb,2014-12-03,66,0.618,0.7759999999999999
+42,Indonesia,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,DDU-DU DDU-DU,2aI2k39nfa3KFsa4JclQzw,2018-06-15,75,0.6709999999999999,0.8590000000000001
+43,Indonesia,Khalid,6LuN9FCkKOj5PcnpouEgny,Talk,0rTV5WefWd1J3OwIheTzxM,2019-02-07,91,0.9,0.4
+44,Indonesia,Lauv,5JZ7CnR6gTvEMKX4g70Amv,I Like Me Better,2P91MQbaiQOfbiz9VqhqKQ,2018-05-31,75,0.752,0.505
+45,Indonesia,Queen,1dfeR4HaWDbWqFHLkxsg1d,Bohemian Rhapsody - Remastered 2011,7tFiyTwD0nx5a1eklYtX2J,1975-11-21,80,0.397,0.396
+46,Indonesia,Yovie Widianto,7Ln5yumFjHCkeZ8bAzHUcp,Adu Rayu,3FcCAFQj4bLpfxo8gj1kk9,2019-02-22,54,0.5579999999999999,0.374
+47,Indonesia,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,I'm a Mess,04ZTP5KsCypmtCmQg5tH9R,2018-06-22,85,0.63,0.6940000000000001
+48,Indonesia,Brisia Jodie,0GxxkBLH2uLa4b3URWudGb,Seandainya,6S6I7dacIYJUBvk3nyd9ba,2018-10-12,65,0.505,0.487
+49,Indonesia,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Perfect,0tgVpDi06FyKpA1z0VMD4v,2017-03-03,88,0.599,0.448
+0,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,マリーゴールド,2cKiHG16JBiqHdi7Llq0r7,2019-02-13,59,0.545,0.745
+1,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,今夜このまま,6kKvmT4i0Dercz6f3kftg3,2019-02-13,56,0.441,0.852
+2,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,君はロックを聴かない,59eluCMn0XbOWqeWQ91FTM,2017-09-12,65,0.524,0.687
+3,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,愛を伝えたいだとか,0N8Xztr4pBHJ7V0moJWhbO,2017-09-12,64,0.6729999999999999,0.85
+4,Japan,King Gnu,6wxfx1yhyqjCPYwwxJktR2,白日,18kopBY404pwnBMYoUwQYi,2019-02-22,52,0.606,0.901
+5,Japan,ONE OK ROCK,7k73EtZwoPs516ZxE72KsO,Stand Out Fit In,4zXRMjTaeflesB3Ih4eHnJ,2019-02-15,57,0.615,0.841
+6,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,満月の夜なら,7DW5Dro8AHE7x19COl26E3,2019-02-13,56,0.547,0.949
+7,Japan,DAOKO,5Qeyh2XKoITt1mlEVtzazC,打上花火,4IouQaO9GkaHC7AtMErdSa,2017-12-20,64,0.625,0.6679999999999999
+8,Japan,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+9,Japan,HY,3x621ItlHMtX7mrJ8QnEjM,366日,22aZD7yaGYfhgCYazL4nbc,2008-04-16,61,0.378,0.426
+10,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,貴方解剖純愛歌〜死ね〜,2H3bOGOE50qEo5wAYoJiwL,2015-08-05,62,0.422,0.918
+11,Japan,ONE OK ROCK,7k73EtZwoPs516ZxE72KsO,In the Stars (feat. Kiiara),3VESewT7ERH2wtE5OyuKWH,2019-02-13,56,0.597,0.785
+12,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,あした世界が終わるとしても,4cKEW1EDlagnqmExM6lVcm,2019-02-13,56,0.563,0.67
+13,Japan,Mr.Children,1qma7XhwZotCAucL7NHVLY,HANABI,77lmDcPPyY6kK907gdgC6i,2008-12-10,61,0.638,0.7659999999999999
+14,Japan,ONE OK ROCK,7k73EtZwoPs516ZxE72KsO,Change,0BOHIMI5EvhGuZSkWLwxIP,2019-02-15,53,0.493,0.7290000000000001
+15,Japan,MONGOL800,2zUQjYvy0TevSi4d3PjqQO,小さな恋のうた,7swIKcU4tFRk4iFJpi12Fg,2013-01-23,62,0.403,0.87
+16,Japan,ONE OK ROCK,7k73EtZwoPs516ZxE72KsO,Wasted Nights,39LyUQIy7idLxPdsjyZsxe,2019-02-15,56,0.556,0.833
+17,Japan,DA PUMP,3NRXKeatDxKe4apH6XawKX,U.S.A.,5HXCP7b8k64WdZ1G0Bbc13,2018-12-12,56,0.71,0.988
+18,Japan,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
+19,Japan,Superfly,5M8AXrOifBT8elkLKbGPQZ,愛をこめて花束を,7CmWXD3w1xOO53AAO4LRVQ,2007-04-04,61,0.37,0.8
+20,Japan,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Shape of You,7qiZfU4dY1lWllzX7mPBI3,2017-03-03,86,0.825,0.652
+21,Japan,[Alexandros],1luOe8HkZQ7zwuaO2wuJqI,ワタリドリ,0ve9Tpz8Yw0I4eXhWsy21o,2015-06-17,62,0.508,0.964
+22,Japan,Masaki Suda,6n4SsAp5VjvIBg3s9QCcPX,Sayonara Elegy,0QKmcZNAST4GytJYmkN05D,2018-03-21,46,0.466,0.934
+23,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,ら、のはなし,2tgWF9EZzqiq4Qzdzeow1A,2019-02-13,56,0.568,0.802
+24,Japan,ONE OK ROCK,7k73EtZwoPs516ZxE72KsO,Wherever you are,0YAMQSmHk6BSUGTYpaoqTJ,2010-06-09,59,0.379,0.69
+25,Japan,AAA,1AyWsgtaIgXbzjJlTx2ZDp,恋音と雨空,46gSY0U7ZZCmd7EuJuo15N,2017-01-18,59,0.625,0.86
+26,Japan,GReeeeN,14T8NkbwXVZgbOvwnuGV89,愛唄,7iXHLtPosbHvglVSJ4rxLq,2007-01-01,59,0.505,0.7909999999999999
+27,Japan,Queen,1dfeR4HaWDbWqFHLkxsg1d,Bohemian Rhapsody - Remastered 2011,7tFiyTwD0nx5a1eklYtX2J,1975-11-21,80,0.397,0.396
+28,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,生きていたんだよな,69jrtjVjyzRyPCDg0dHYCX,2017-09-12,60,0.601,0.901
+29,Japan,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+30,Japan,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
+31,Japan,Motohiro Hata,706WzkJEacBrtkHKRpBU2q,鱗(うろこ),4IubwxgmXeZtDtYjTaT9gN,2007-09-26,58,0.442,0.748
+32,Japan,Nissy,4L9VSeE7K3BTBndqEL9A6q,トリコ,7H5uStZMOGpcVw7eW0eyTi,2019-02-04,50,0.63,0.8
+33,Japan,King Gnu,6wxfx1yhyqjCPYwwxJktR2,Slumberland,1Q5l8ZfVn6kYwLJkGrBwZP,2019-01-16,41,0.664,0.7909999999999999
+34,Japan,MISIA,3uyDATzOGjbGCts7v2eszk,Ainokatachi (feat. HIDE (GReeeeN)),76flsS3UnNr7UQIz6JmVT3,2016,44,0.379,0.653
+35,Japan,Sukima Switch,0wRzWf3I4lUl9hdFF5uL0m,奏(かなで),5RbMlPFL4gVyEHW2lEOuzG,2004-06-23,60,0.519,0.6659999999999999
+36,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,二人だけの国,47ykT7pfFgvjCpk0c2MxBI,2019-02-13,54,0.698,0.459
+37,Japan,TWICE,7n2Ycct7Beij7Dj7meI4X0,YES or YES,184XtKkzoAl83quIarUAJP,2018-11-05,60,0.7020000000000001,0.913
+38,Japan,AI,0aD7NQx7yauKlVDnqOxk6q,Story,0V2axJ946WH1vt9t5SGMLV,2006-09-27,59,0.586,0.632
+39,Japan,ONE OK ROCK,7k73EtZwoPs516ZxE72KsO,Eye Of The Storm,6CbKdffAPlgLV4nqvQceNT,2019-02-15,56,0.457,0.823
+40,Japan,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,Who Do You Love (with 5 Seconds of Summer),11cDEev79fPKi6uJCjUhu8,2019-02-07,89,0.51,0.835
+41,Japan,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,96,0.687,0.792
+42,Japan,Yo Hitoto,5sm4rWbXSE6K8MdyTIZg7q,ハナミズキ,4PqDkR6YM80Sy590Qsy6mm,2015-07-22,59,0.476,0.457
+43,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,プレゼント,1i6F01jxN0Qy7xFk3EldRO,2019-02-13,54,0.422,0.878
+44,Japan,Cardi B,4kYSro6naA4h99UJvo89HB,Please Me,0PG9fbaaHFHfre2gUVo7AN,2019-02-15,87,0.747,0.57
+45,Japan,GReeeeN,14T8NkbwXVZgbOvwnuGV89,キセキ,7ztdl6cnbJgHRdMkKldkts,2008-01-01,59,0.6409999999999999,0.618
+46,Japan,Aimyon,5kVZa4lFUmAQlBogl1fkd6,夢追いベンガル,526NsA2BI2b10l05a13VWm,2019-02-13,53,0.54,0.977
+47,Japan,Shota Shimizu,2ZjWbNQAjL74Pf4aqikIz2,My Boo,2gasr6aemUqZIBBN05EO03,2017-06-30,40,0.7190000000000001,0.718
+48,Japan,ONE OK ROCK,7k73EtZwoPs516ZxE72KsO,Head High,70H7igMoR8VWGbqAEEYRHA,2019-02-15,54,0.586,0.8690000000000001
+49,Japan,ITZY,2KC9Qb60EaY0kW4eH68vr3,달라달라 DALLA DALLA,6G7DuXoSGeAf6BZivJdEjF,2019-02-13,79,0.79,0.853
+0,Phillipines,This Band,5HIZU0JzM0AgfItVOm4E08,Kahit Ayaw Mo Na,5V2AX2WTOHl2FKtftvisV6,2018-02-02,80,0.662,0.529
+1,Phillipines,December Avenue,4qFxP3qN9GsnZDOkAE6x2m,Kung 'Di Rin Lang Ikaw,2BgD4nRyx9EZ5o8YEnjRSV,2018-07-22,80,0.502,0.482
+2,Phillipines,juan karlos,0a4r2EnsevvHCukoJ1xFwJ,Buwan,5f9808hpiCpuNyqqdXmpF2,2018-06-22,79,0.631,0.381
+3,Phillipines,I Belong to the Zoo,7tKpXx21KVUOR6vvDs6xtg,Sana,1X4l4i472kW5ofFP8Xo0x0,2018-04-25,79,0.66,0.373
+4,Phillipines,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Pauwi Nako,2tzAN1L07SNwnOdgOEeuQr,2018-07-28,76,0.657,0.746
+5,Phillipines,December Avenue,4qFxP3qN9GsnZDOkAE6x2m,Sa Ngalan Ng Pag-Ibig,00mBzIWv5gHOYxwuEJXjOG,2017-04-29,78,0.518,0.7609999999999999
+6,Phillipines,Ben&Ben,4DAcJXcjX0zlQAZAPAx4Zb,Maybe The Night,1yDiru08Q6omDOGkZMPnei,2017-10-27,77,0.5720000000000001,0.522
+7,Phillipines,This Band,5HIZU0JzM0AgfItVOm4E08,Hindi Na Nga,50hVyhZM4nvizfrQe38F3l,2018-09-14,75,0.396,0.413
+8,Phillipines,Ben&Ben,4DAcJXcjX0zlQAZAPAx4Zb,Kathang Isip,3WUEs51GpcvlgU7lehLgLh,2017-06-23,77,0.491,0.314
+9,Phillipines,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+10,Phillipines,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
+11,Phillipines,Lukas Graham,25u4wHJWxCA9vO0CzxAbK7,Love Someone,3id2EVGKc3eFAMn9nFnB0r,2018-10-26,78,0.5379999999999999,0.409
+12,Phillipines,LANY,49tQo2QULno7gxHutgccqF,Malibu Nights,0Eqg0CQ7bK3RQIMPw1A7pl,2018-10-05,78,0.5589999999999999,0.422
+13,Phillipines,H.E.R.,3Y7RZ31TRPVadSFVy1o8os,Best Part (feat. Daniel Caesar),4OBZT9EnhYIV17t4pGw7ig,2017-10-20,84,0.473,0.371
+14,Phillipines,Moira Dela Torre,0rZRTXEmmPmx6gt92tBqIc,Ikaw At Ako,0gDRtumoR9ZrvAlnniToMz,2019-01-14,73,0.445,0.355
+15,Phillipines,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Sunflower - Spider-Man: Into the Spider-Verse,7dbka99KTWke5o9hRp0JoB,2019-02-22,73,0.7609999999999999,0.479
+16,Phillipines,December Avenue,4qFxP3qN9GsnZDOkAE6x2m,Bulong,5nMKJJ5Rl6X1yn58aVeICO,2018-04-08,76,0.5,0.728
+17,Phillipines,JM De Guzman,2uhjpR62cyl0U8HD38yFQ8,"214 - From ""Alone/Together""",0Fh6hgq979963fIxr2VBF2,2019-02-08,69,0.35100000000000003,0.35
+18,Phillipines,Halsey,26VFTg2z8YR0cCuwLzESi2,Without Me,5p7ujcrUXASCNwRaWNHR1C,2018-10-04,97,0.752,0.488
+19,Phillipines,December Avenue,4qFxP3qN9GsnZDOkAE6x2m,Kahit Di Mo Alam,6GIzDc4xBUeYHwubWwTrhC,2017-09-17,74,0.45,0.648
+20,Phillipines,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
+21,Phillipines,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+22,Phillipines,I Belong to the Zoo,7tKpXx21KVUOR6vvDs6xtg,Balang Araw,5NXdUJ3Z2jhlp2u1cj6f7m,2018-10-23,74,0.523,0.391
+23,Phillipines,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,96,0.687,0.792
+24,Phillipines,Anne-Marie,1zNqDE7qDGCsyzJwohVaoX,2002,2BgEsaKNfHUdlh97KmvFyo,2018-04-27,85,0.6970000000000001,0.6829999999999999
+25,Phillipines,Maroon 5,04gDigrS5kc9YWfZHwBETP,Girls Like You (feat. Cardi B),7fa9MBXhVfQ8P8Df9OEbD8,2018-06-15,83,0.851,0.541
+26,Phillipines,Khalid,6LuN9FCkKOj5PcnpouEgny,Talk,0rTV5WefWd1J3OwIheTzxM,2019-02-07,91,0.9,0.4
+27,Phillipines,Lauv,5JZ7CnR6gTvEMKX4g70Amv,i'm so tired...,7COXchtUOMd6uIT6HvmRaI,2019-01-24,92,0.599,0.733
+28,Phillipines,LANY,49tQo2QULno7gxHutgccqF,Thru These Tears,7GbAp0HKPQW7WnFJAzMoRk,2018-10-05,77,0.711,0.517
+29,Phillipines,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,Undecided,7uiBocndm12aKbsdnQ3Scx,2019-01-04,86,0.441,0.527
+30,Phillipines,Moira Dela Torre,0rZRTXEmmPmx6gt92tBqIc,Tagpuan,0ztDBQdQmdVZvorSmIjMih,2018-02-19,72,0.5660000000000001,0.121
+31,Phillipines,Janine Teñoso,09Xydf4dlkr29dH99DmsvQ,'Di Na Muli,3VQb0rq27GPX92X53Ni1Lc,2018-04-06,72,0.413,0.561
+32,Phillipines,Bazzi,4GvEc3ANtPPjt1ZJllr5Zl,Beautiful (feat. Camila Cabello),4VUwkH455At9kENOfzTqmF,2018-08-02,88,0.638,0.7170000000000001
+33,Phillipines,Khel Pangilinan,30DIeQNV9s1HEXyuCpGF4l,Weak,06cUybZMETs4i3yQO1f7p3,2018-08-28,72,0.71,0.373
+34,Phillipines,DJ Snake,540vIaP2JwjQb9dm3aArA4,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",4w8niZpiMy6qz1mntFA5uM,2018-09-28,95,0.841,0.7979999999999999
+35,Phillipines,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,Who Do You Love (with 5 Seconds of Summer),11cDEev79fPKi6uJCjUhu8,2019-02-07,89,0.51,0.835
+36,Phillipines,Cardi B,4kYSro6naA4h99UJvo89HB,Please Me,0PG9fbaaHFHfre2gUVo7AN,2019-02-15,87,0.747,0.57
+37,Phillipines,benny blanco,5CiGnKThu5ctn9pBxv7DGa,Eastside (with Halsey & Khalid),7FGq80cy8juXBCD2nrqdWU,2018-12-07,82,0.632,0.6859999999999999
+38,Phillipines,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,Sweet but Psycho,25sgk305KZfyuqVBQIahim,2018-08-17,96,0.7190000000000001,0.7040000000000001
+39,Phillipines,JENNIE,250b0Wlc5Vk0CoUsaCY84M,SOLO,2wVDWtLKXunswWecARNILj,2018-11-12,80,0.7509999999999999,0.642
+40,Phillipines,ALLMO$T,0WleeEe3UurwlNbDGhb5Yz,Dalaga,6fWTVk29yvFEqE5VY6Gslk,2018-01-01,69,0.939,0.4970000000000001
+41,Phillipines,Russ,1z7b1Pr1rSlvWRzsW3HOrS,Missin You Crazy,4ve2uzqdwnHr20G5YgMMqr,2018-09-07,81,0.716,0.7290000000000001
+42,Phillipines,ITZY,2KC9Qb60EaY0kW4eH68vr3,달라달라 DALLA DALLA,6G7DuXoSGeAf6BZivJdEjF,2019-02-13,79,0.79,0.853
+43,Phillipines,IV Of Spades,4k9wp4ipHdA1bu1T4x1ZTG,Mundo,4u8RkgV6P4TLi89SmlUtv8,2018-02-14,73,0.705,0.401
+44,Phillipines,Calum Scott,6ydoSd3N2mwgwBHtF6K7eX,You Are The Reason,69vToJ9BMbbLlFZo7k7A7B,2018-03-09,83,0.331,0.235
+45,Phillipines,This Band,5HIZU0JzM0AgfItVOm4E08,'Di Na Babalik,5S4T2Pdr8qhetF3UhkwuMj,2019-02-03,64,0.5710000000000001,0.469
+46,Phillipines,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,This Feeling,4NBTZtAt1F13VvlSKe6KTl,2018-12-14,87,0.575,0.5710000000000001
+47,Phillipines,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,Close To Me (with Diplo) (feat. Swae Lee),5JEx7HbmvHQQswJCsoo9rA,2018-10-24,91,0.574,0.758
+48,Phillipines,Moira Dela Torre,0rZRTXEmmPmx6gt92tBqIc,"Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",3efCao3RLbsz52LQ66o8Ac,2019-02-08,65,0.491,0.101
+49,Phillipines,Armi Millare,7bT6URJrhJleZUfkrysELD,"Kapit - From ""Alone / Together""",02GtNoUv85fOPEaCTlpYzr,2019-02-13,61,0.586,0.32299999999999995
+0,South Africa,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+1,South Africa,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Sunflower - Spider-Man: Into the Spider-Verse,7dbka99KTWke5o9hRp0JoB,2019-02-22,73,0.7609999999999999,0.479
+2,South Africa,Post Malone,246dkjvS1zLTtiykXe5h60,Wow.,6MWtB6iiXyIwun0YzU6DFP,2018-12-24,98,0.833,0.539
+3,South Africa,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,96,0.687,0.792
+4,South Africa,Halsey,26VFTg2z8YR0cCuwLzESi2,Without Me,5p7ujcrUXASCNwRaWNHR1C,2018-10-04,97,0.752,0.488
+5,South Africa,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+6,South Africa,benny blanco,5CiGnKThu5ctn9pBxv7DGa,Eastside (with Halsey & Khalid),7FGq80cy8juXBCD2nrqdWU,2018-12-07,82,0.632,0.6859999999999999
+7,South Africa,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.5720000000000001,0.385
+8,South Africa,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
+9,South Africa,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,MIDDLE CHILD,2JvzF1RMd7lE3KmFlsyZD8,2019-01-23,95,0.8370000000000001,0.364
+10,South Africa,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,Sweet but Psycho,25sgk305KZfyuqVBQIahim,2018-08-17,96,0.7190000000000001,0.7040000000000001
+11,South Africa,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,bury a friend,4NzMOnvSJVNKF7nw5NkXIP,2019-01-30,95,0.905,0.389
+12,South Africa,Khalid,6LuN9FCkKOj5PcnpouEgny,Better,6zeeWid2sgw4lap2jV61PZ,2018-10-18,87,0.596,0.552
+13,South Africa,Khalid,6LuN9FCkKOj5PcnpouEgny,Talk,0rTV5WefWd1J3OwIheTzxM,2019-02-07,91,0.9,0.4
+14,South Africa,Kehlani,0cGUm45nv7Z6M6qdXYQGTX,Nights Like This (feat. Ty Dolla $ign),6ZRuF2n1CQxyxxAAWsKJOy,2019-02-22,68,0.61,0.725
+15,South Africa,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
+16,South Africa,Khalid,6LuN9FCkKOj5PcnpouEgny,Saturday Nights,5kfNriitmkNE8mUbZ7gbq8,2018-10-18,82,0.551,0.44
+17,South Africa,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,Close To Me (with Diplo) (feat. Swae Lee),5JEx7HbmvHQQswJCsoo9rA,2018-10-24,91,0.574,0.758
+18,South Africa,Meek Mill,20sxb77xiYeusSH8cVdatc,Going Bad (feat. Drake),2IRZnDFmlqMuOrYOLnZZyc,2018-11-30,94,0.889,0.496
+19,South Africa,Lauv,5JZ7CnR6gTvEMKX4g70Amv,i'm so tired...,7COXchtUOMd6uIT6HvmRaI,2019-01-24,92,0.599,0.733
+20,South Africa,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,Who Do You Love (with 5 Seconds of Summer),11cDEev79fPKi6uJCjUhu8,2019-02-07,89,0.51,0.835
+21,South Africa,Lauv,5JZ7CnR6gTvEMKX4g70Amv,I Like Me Better,2P91MQbaiQOfbiz9VqhqKQ,2018-05-31,75,0.752,0.505
+22,South Africa,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,High Hopes,1rqqCSm0Qe4I9rUvWncaom,2018-06-22,94,0.579,0.904
+23,South Africa,5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,Youngblood,2iUXsYOEPhVqEBwsqP70rE,2018-06-15,86,0.596,0.8540000000000001
+24,South Africa,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,This Feeling,4NBTZtAt1F13VvlSKe6KTl,2018-12-14,87,0.575,0.5710000000000001
+25,South Africa,Post Malone,246dkjvS1zLTtiykXe5h60,Better Now,7dt6x5M1jzdTEt8oCbisTK,2018-04-27,92,0.68,0.563
+26,South Africa,Cardi B,4kYSro6naA4h99UJvo89HB,Please Me,0PG9fbaaHFHfre2gUVo7AN,2019-02-15,87,0.747,0.57
+27,South Africa,Black Coffee,6wMr4zKPrrR0UVz08WtUWc,Drive (feat. Delilah Montagu) - Edit,6X7PK2UQMUU36ux9pynSkV,2018-08-24,72,0.7190000000000001,0.79
+28,South Africa,Dynoro,3v6Ji4uoWtKRkhuDUaxi9n,In My Mind,0E9ZjEAyAwOXZ7wJC0PD33,2018-06-08,89,0.6940000000000001,0.77
+29,South Africa,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,2018-08-03,94,0.8340000000000001,0.73
+30,South Africa,21 Savage,1URnnhqYAYcrqrcwql10ft,a lot,2t8yVaLvJ0RenpXUIAC52d,2018-12-21,92,0.8370000000000001,0.636
+31,South Africa,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Giant (with Rag'n'Bone Man),5itOtNx0WxtJmi1TQ3RuRd,2019-01-11,92,0.807,0.887
+32,South Africa,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,ZEZE (feat. Travis Scott & Offset),0FZ4Dmg8jJJAPJnvBIzD9z,2018-12-14,92,0.861,0.603
+33,South Africa,Anne-Marie,1zNqDE7qDGCsyzJwohVaoX,2002,2BgEsaKNfHUdlh97KmvFyo,2018-04-27,85,0.6970000000000001,0.6829999999999999
+34,South Africa,Blueface,3Fl1V19tmjt57oBdxXKAjJ,Thotiana,3oh6SCCeLuXhFpEyepla6G,2018-12-18,91,0.906,0.382
+35,South Africa,Loud Luxury,6t1gpxYbY8OlLA7D2RiikQ,Body (feat. brando),7K7MUBCnzgBAvMVW2RTWNs,2017-10-27,68,0.752,0.764
+36,South Africa,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,Robbery,44ShclXTOOnYtt5CnCDeGV,2019-02-13,85,0.708,0.691
+37,South Africa,Bazzi,4GvEc3ANtPPjt1ZJllr5Zl,Beautiful (feat. Camila Cabello),4VUwkH455At9kENOfzTqmF,2018-08-02,88,0.638,0.7170000000000001
+38,South Africa,Alec Benjamin,5IH6FPUwQTxPSXurCrcIov,Let Me Down Slowly,2qxmye6gAegTMjLKEBoR3d,2018-11-16,90,0.652,0.557
+39,South Africa,Dean Lewis,3QSQFmccmX81fWCUSPTS7y,Be Alright,3EPXxR3ImUwfayaurPi3cm,2018-06-29,92,0.5529999999999999,0.586
+40,South Africa,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,Hope,4BiiOzZCrXEzHRLYcYFiD5,2018-12-14,89,0.773,0.6990000000000001
+41,South Africa,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,when the party's over,14JzyD6FlBD5z0wV5P07YI,2018-10-17,92,0.498,0.104
+42,South Africa,Sheck Wes,2RDOrhPqAM4jzTRCEb19qX,Mo Bamba,1xzBco0xcoJEDXktl7Jxrr,2018-10-05,92,0.7290000000000001,0.625
+43,South Africa,Maroon 5,04gDigrS5kc9YWfZHwBETP,Girls Like You (feat. Cardi B),7fa9MBXhVfQ8P8Df9OEbD8,2018-06-15,83,0.851,0.541
+44,South Africa,Martin Garrix,60d24wfXkVzDSfLS6hyCjZ,Ocean (feat. Khalid),3nc420PXjTdBV5TN0gCFkS,2018-06-15,84,0.506,0.693
+45,South Africa,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,Legacy (feat. Travis Scott & 21 Savage),7pMRoGLEJuFM2wl5pt0R99,2019-02-22,78,0.8440000000000001,0.513
+46,South Africa,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,lovely,1NJcg626wLln4pGHpiV7mf,2017-08-11,64,0.35100000000000003,0.29600000000000004
+47,South Africa,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Promises (with Sam Smith),5N5k9nd479b1xpDZ4usjrg,2018-08-17,90,0.7809999999999999,0.768
+48,South Africa,YUNGBLUD,6Ad91Jof8Niiw0lGLLi3NW,11 Minutes (with Halsey feat. Travis Barker),4mGdjNMo0RonTlOEb7cYg4,2019-02-14,83,0.464,0.852
+49,South Africa,Cardi B,4kYSro6naA4h99UJvo89HB,Money,2GGMabyHXnJmjY6CXhhB2e,2018-10-23,89,0.95,0.59
+0,UK,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+1,UK,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+2,UK,Mabel,1MIVXf74SZHmTIp4V4paH4,Don't Call Me Up,5WHTFyqSii0lmT9R21abT8,2019-01-18,87,0.674,0.8809999999999999
+3,UK,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Someone You Loved,2TIlqbIneP0ZY1O0EzYLlc,2018-11-08,89,0.501,0.405
+4,UK,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Giant (with Rag'n'Bone Man),5itOtNx0WxtJmi1TQ3RuRd,2019-01-11,92,0.807,0.887
+5,UK,Post Malone,246dkjvS1zLTtiykXe5h60,Wow.,6MWtB6iiXyIwun0YzU6DFP,2018-12-24,98,0.833,0.539
+6,UK,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
+7,UK,NSG,31Ua7zSTJxegjyd49ujbSA,Options,2cytBOLpwFRX7J9URCrFIe,2018-11-30,80,0.836,0.621
+8,UK,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.5720000000000001,0.385
+9,UK,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,bury a friend,4NzMOnvSJVNKF7nw5NkXIP,2019-01-30,95,0.905,0.389
+10,UK,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Sunflower - Spider-Man: Into the Spider-Verse,7dbka99KTWke5o9hRp0JoB,2019-02-22,73,0.7609999999999999,0.479
+11,UK,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,Sweet but Psycho,25sgk305KZfyuqVBQIahim,2018-08-17,96,0.7190000000000001,0.7040000000000001
+12,UK,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
+13,UK,Meek Mill,20sxb77xiYeusSH8cVdatc,Going Bad (feat. Drake),2IRZnDFmlqMuOrYOLnZZyc,2018-11-30,94,0.889,0.496
+14,UK,Lauv,5JZ7CnR6gTvEMKX4g70Amv,i'm so tired...,7COXchtUOMd6uIT6HvmRaI,2019-01-24,92,0.599,0.733
+15,UK,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,96,0.687,0.792
+16,UK,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,MIDDLE CHILD,2JvzF1RMd7lE3KmFlsyZD8,2019-01-23,95,0.8370000000000001,0.364
+17,UK,Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,Nothing Breaks Like a Heart (feat. Miley Cyrus),27rdGxbavYJeBphck5MZAF,2018-11-30,92,0.601,0.794
+18,UK,Khalid,6LuN9FCkKOj5PcnpouEgny,Talk,0rTV5WefWd1J3OwIheTzxM,2019-02-07,91,0.9,0.4
+19,UK,Tom Walker,7z2avKuuiMAT4XZJFv8Rvh,Just You and I,4Fvtl6P5d8h2lzzwhUCHHD,2017-10-13,65,0.5670000000000001,0.696
+20,UK,Cadet,1Gm0kKaDx4GH6pQF88rjSK,Advice,1fp2uoWXPca3mIdxRHIgQm,2018-09-14,76,0.911,0.529
+21,UK,Halsey,26VFTg2z8YR0cCuwLzESi2,Without Me,5p7ujcrUXASCNwRaWNHR1C,2018-10-04,97,0.752,0.488
+22,UK,George Ezra,2ysnwxxNtSgbb9t1m2Ur4j,Shotgun,4ofwffwvvnbSkrMSCKQDaC,2018-03-23,87,0.672,0.735
+23,UK,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,bad idea,7EQpvVujgytLVY8vKiDHAg,2018-02-07,72,0.86,0.5820000000000001
+24,UK,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,2018-08-03,94,0.8340000000000001,0.73
+25,UK,Blueface,3Fl1V19tmjt57oBdxXKAjJ,Thotiana,3oh6SCCeLuXhFpEyepla6G,2018-12-18,91,0.906,0.382
+26,UK,YNW Melly,1cNDP5yjU5vjeR8qMf4grg,Murder On My Mind,7eBqSVxrzQZtK2mmgRG6lC,2018-08-03,88,0.759,0.73
+27,UK,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,needy,1TEL6MlSSVLSdhOSddidlJ,2019-02-08,91,0.607,0.314
+28,UK,D-Block Europe,5VadK1havLhK1OpKYsXv9y,Kitchen Kings,1RJHieKAxYz9qbREvOR5eA,2019-02-15,63,0.652,0.727
+29,UK,Jax Jones,4Q6nIcaBED8qUel8bBx6Cr,Play,29R1IMTTbDDA3VNlk6UEW5,2018-11-28,81,0.7709999999999999,0.768
+30,UK,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,bloodline,2hloaUoRonYssMuqLCBLTX,2019-02-08,91,0.765,0.6629999999999999
+31,UK,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Promises (with Sam Smith),5N5k9nd479b1xpDZ4usjrg,2018-08-17,90,0.7809999999999999,0.768
+32,UK,benny blanco,5CiGnKThu5ctn9pBxv7DGa,Eastside (with Halsey & Khalid),7FGq80cy8juXBCD2nrqdWU,2018-12-07,82,0.632,0.6859999999999999
+33,UK,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,High Hopes,1rqqCSm0Qe4I9rUvWncaom,2018-06-22,94,0.579,0.904
+34,UK,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,NASA,4SPu0Ql902hTVXkBoNIYtq,2018-02-07,73,0.597,0.458
+35,UK,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,Swervin (feat. 6ix9ine),1wJRveJZLSb1rjhnUHQiv6,2018-12-21,89,0.581,0.662
+36,UK,Kehlani,0cGUm45nv7Z6M6qdXYQGTX,Nights Like This (feat. Ty Dolla $ign),6ZRuF2n1CQxyxxAAWsKJOy,2019-02-22,68,0.61,0.725
+37,UK,Post Malone,246dkjvS1zLTtiykXe5h60,Better Now,7dt6x5M1jzdTEt8oCbisTK,2018-04-27,92,0.68,0.563
+38,UK,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,Robbery,44ShclXTOOnYtt5CnCDeGV,2019-02-13,85,0.708,0.691
+39,UK,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,ZEZE (feat. Travis Scott & Offset),0FZ4Dmg8jJJAPJnvBIzD9z,2018-12-14,92,0.861,0.603
+40,UK,Cardi B,4kYSro6naA4h99UJvo89HB,Please Me,0PG9fbaaHFHfre2gUVo7AN,2019-02-15,87,0.747,0.57
+41,UK,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,imagine,39LmTF9RgyakzSYX8txrow,2019-02-08,89,0.7090000000000001,0.474
+42,UK,Loud Luxury,6t1gpxYbY8OlLA7D2RiikQ,Body (feat. brando),7K7MUBCnzgBAvMVW2RTWNs,2017-10-27,68,0.752,0.764
+43,UK,P!nk,1KCSPY1glIKqW2TotWuXOR,Walk Me Home,7DHApOHsIFo7EyfieArYGE,2019-02-20,77,0.652,0.453
+44,UK,21 Savage,1URnnhqYAYcrqrcwql10ft,a lot,2t8yVaLvJ0RenpXUIAC52d,2018-12-21,92,0.8370000000000001,0.636
+45,UK,Dave,6Ip8FS7vWT1uKkJSweANQK,Funky Friday,01IQ4aQgOf0Kkq3a273hmO,2018-10-04,76,0.975,0.535
+46,UK,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,Undecided,7uiBocndm12aKbsdnQ3Scx,2019-01-04,86,0.441,0.527
+47,UK,Tyga,5LHRHt1k9lMyONurDHEdrp,Taste (feat. Offset),5IaHrVsrferBYDm0bDyABy,2018-05-16,89,0.884,0.5589999999999999
+48,UK,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Grace,4eQBL0cuF3ismYCzBff2Ii,2018-09-21,76,0.733,0.5329999999999999
+49,UK,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,fake smile,3wFLWP0FcIqHK1wb1CPthQ,2019-02-08,90,0.522,0.6
+0,US,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.7709999999999999,0.32
+1,US,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+2,US,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,MIDDLE CHILD,2JvzF1RMd7lE3KmFlsyZD8,2019-01-23,95,0.8370000000000001,0.364
+3,US,Post Malone,246dkjvS1zLTtiykXe5h60,Wow.,6MWtB6iiXyIwun0YzU6DFP,2018-12-24,98,0.833,0.539
+4,US,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Sunflower - Spider-Man: Into the Spider-Verse,7dbka99KTWke5o9hRp0JoB,2019-02-22,73,0.7609999999999999,0.479
+5,US,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.5720000000000001,0.385
+6,US,YNW Melly,1cNDP5yjU5vjeR8qMf4grg,Murder On My Mind,7eBqSVxrzQZtK2mmgRG6lC,2018-08-03,88,0.759,0.73
+7,US,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,Robbery,44ShclXTOOnYtt5CnCDeGV,2019-02-13,85,0.708,0.691
+8,US,Meek Mill,20sxb77xiYeusSH8cVdatc,Going Bad (feat. Drake),2IRZnDFmlqMuOrYOLnZZyc,2018-11-30,94,0.889,0.496
+9,US,21 Savage,1URnnhqYAYcrqrcwql10ft,a lot,2t8yVaLvJ0RenpXUIAC52d,2018-12-21,92,0.8370000000000001,0.636
+10,US,Blueface,3Fl1V19tmjt57oBdxXKAjJ,Thotiana,3oh6SCCeLuXhFpEyepla6G,2018-12-18,91,0.906,0.382
+11,US,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
+12,US,Lil Baby,5f7VJjfbwm532GiveGC0ZK,Drip Too Hard (Lil Baby & Gunna),78QR3Wp35dqAhFEc2qAGjE,2018-10-05,91,0.8959999999999999,0.6709999999999999
+13,US,Khalid,6LuN9FCkKOj5PcnpouEgny,Talk,0rTV5WefWd1J3OwIheTzxM,2019-02-07,91,0.9,0.4
+14,US,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,bury a friend,4NzMOnvSJVNKF7nw5NkXIP,2019-01-30,95,0.905,0.389
+15,US,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,Swervin (feat. 6ix9ine),1wJRveJZLSb1rjhnUHQiv6,2018-12-21,89,0.581,0.662
+16,US,Mustard,0YinUQ50QDB7ZxSCLyQ40k,Pure Water (with Migos),63cd4JkwGgYJrbOizbfmsp,2019-01-16,88,0.68,0.5589999999999999
+17,US,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,Legacy (feat. Travis Scott & 21 Savage),7pMRoGLEJuFM2wl5pt0R99,2019-02-22,78,0.8440000000000001,0.513
+18,US,Halsey,26VFTg2z8YR0cCuwLzESi2,Without Me,5p7ujcrUXASCNwRaWNHR1C,2018-10-04,97,0.752,0.488
+19,US,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,2018-08-03,94,0.8340000000000001,0.73
+20,US,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,Look Back At It,3Ol2xnObFdKV9pmRD2t9x8,2018-12-21,90,0.7909999999999999,0.5870000000000001
+21,US,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,Red Room,4TWflhgevIGo448fWc6mQq,2019-02-22,69,0.936,0.5589999999999999
+22,US,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,NASA,4SPu0Ql902hTVXkBoNIYtq,2018-02-07,73,0.597,0.458
+23,US,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,needy,1TEL6MlSSVLSdhOSddidlJ,2019-02-08,91,0.607,0.314
+24,US,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
+25,US,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,ZEZE (feat. Travis Scott & Offset),0FZ4Dmg8jJJAPJnvBIzD9z,2018-12-14,92,0.861,0.603
+26,US,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,bad idea,7EQpvVujgytLVY8vKiDHAg,2018-02-07,72,0.86,0.5820000000000001
+27,US,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,96,0.687,0.792
+28,US,Lauv,5JZ7CnR6gTvEMKX4g70Amv,i'm so tired...,7COXchtUOMd6uIT6HvmRaI,2019-01-24,92,0.599,0.733
+29,US,Kehlani,0cGUm45nv7Z6M6qdXYQGTX,Nights Like This (feat. Ty Dolla $ign),6ZRuF2n1CQxyxxAAWsKJOy,2019-02-22,68,0.61,0.725
+30,US,Sheck Wes,2RDOrhPqAM4jzTRCEb19qX,Mo Bamba,1xzBco0xcoJEDXktl7Jxrr,2018-10-05,92,0.7290000000000001,0.625
+31,US,Cardi B,4kYSro6naA4h99UJvo89HB,Please Me,0PG9fbaaHFHfre2gUVo7AN,2019-02-15,87,0.747,0.57
+32,US,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,bloodline,2hloaUoRonYssMuqLCBLTX,2019-02-08,91,0.765,0.6629999999999999
+33,US,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,Lucid Dreams,285pBltuF7vW8TeWk8hdRR,2018-12-10,91,0.511,0.5660000000000001
+34,US,Khalid,6LuN9FCkKOj5PcnpouEgny,Better,6zeeWid2sgw4lap2jV61PZ,2018-10-18,87,0.596,0.552
+35,US,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,imagine,39LmTF9RgyakzSYX8txrow,2019-02-08,89,0.7090000000000001,0.474
+36,US,benny blanco,5CiGnKThu5ctn9pBxv7DGa,Eastside (with Halsey & Khalid),7FGq80cy8juXBCD2nrqdWU,2018-12-07,82,0.632,0.6859999999999999
+37,US,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,Armed And Dangerous,5wujBwqG7INdStqGd4tRMX,2018-12-10,88,0.736,0.67
+38,US,YNW Melly,1cNDP5yjU5vjeR8qMf4grg,Mixed Personalities (feat. Kanye West),6vWEAOUSxohKxhp0K1BsxL,2019-01-18,84,0.6609999999999999,0.44
+39,US,Gucci Mane,13y7CgLHjMVRMDqxdx0Xdo,Wake Up in the Sky,2G1tXoGBaEMJ7FKGnkf6ud,2018-12-07,79,0.8,0.578
+40,US,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,fake smile,3wFLWP0FcIqHK1wb1CPthQ,2019-02-08,90,0.522,0.6
+41,US,Cardi B,4kYSro6naA4h99UJvo89HB,Money,2GGMabyHXnJmjY6CXhhB2e,2018-10-23,89,0.95,0.59
+42,US,Post Malone,246dkjvS1zLTtiykXe5h60,Better Now,7dt6x5M1jzdTEt8oCbisTK,2018-04-27,92,0.68,0.563
+43,US,Flipp Dinero,2HUwZ0kumzCSlhFcjFZfpp,Leave Me Alone,14mHfNsSHN0FbLftyjrV9g,2018-09-04,90,0.792,0.743
+44,US,XXXTENTACION,15UsOTVnJzReFVN1VCnxy4,SAD!,3ee8Jmje8o58CHK66QrVC2,2018-03-16,91,0.74,0.613
+45,US,Rich The Kid,1pPmIToKXyGdsCF6LmqLmI,Splashin,79OEIr4J4FHV0O3KrhaXRb,2018-12-04,87,0.942,0.383
+46,US,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,ghostin,4lD7gHKF1e8Y9stQuVezZB,2018-02-07,67,0.448,0.375
+47,US,Gunna,2hlmm7s2ICUX0LVIhVFlZQ,Outstanding,76PwajqH3ej4hnk9tgaJpp,2019-02-22,75,0.8290000000000001,0.73
+48,US,Khalid,6LuN9FCkKOj5PcnpouEgny,Saturday Nights,5kfNriitmkNE8mUbZ7gbq8,2018-10-18,82,0.551,0.44
+49,US,XXXTENTACION,15UsOTVnJzReFVN1VCnxy4,Moonlight,0JP9xo3adEtGSdUEISiszL,2018-03-16,90,0.921,0.537
