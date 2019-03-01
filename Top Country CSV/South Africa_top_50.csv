@@ -1,51 +1,51 @@
 ,Artists Name,Artist ID,Track Name,Track ID,Release Date,Popularity,Danceability,Energy
-0,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,92,0.771,0.32
-1,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Sunflower - Spider-Man: Into the Spider-Verse,7dbka99KTWke5o9hRp0JoB,2019-02-22,73,0.761,0.479
-2,Post Malone,246dkjvS1zLTtiykXe5h60,Wow.,6MWtB6iiXyIwun0YzU6DFP,2018-12-24,98,0.833,0.539
-3,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,96,0.687,0.792
-4,Halsey,26VFTg2z8YR0cCuwLzESi2,Without Me,5p7ujcrUXASCNwRaWNHR1C,2018-10-04,97,0.752,0.488
-5,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
-6,benny blanco,5CiGnKThu5ctn9pBxv7DGa,Eastside (with Halsey & Khalid),7FGq80cy8juXBCD2nrqdWU,2018-12-07,82,0.632,0.686
-7,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,93,0.572,0.385
-8,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
-9,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,MIDDLE CHILD,2JvzF1RMd7lE3KmFlsyZD8,2019-01-23,95,0.837,0.364
+0,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,93,0.771,0.32
+1,Post Malone,246dkjvS1zLTtiykXe5h60,Wow.,6MWtB6iiXyIwun0YzU6DFP,2018-12-24,98,0.833,0.539
+2,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Sunflower - Spider-Man: Into the Spider-Verse,7dbka99KTWke5o9hRp0JoB,2019-02-22,79,0.761,0.479
+3,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,97,0.687,0.792
+4,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,94,0.572,0.385
+5,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,MIDDLE CHILD,2JvzF1RMd7lE3KmFlsyZD8,2019-01-23,95,0.837,0.364
+6,benny blanco,5CiGnKThu5ctn9pBxv7DGa,Eastside (with Halsey & Khalid),7FGq80cy8juXBCD2nrqdWU,2018-12-07,83,0.632,0.686
+7,Halsey,26VFTg2z8YR0cCuwLzESi2,Without Me,5p7ujcrUXASCNwRaWNHR1C,2018-10-04,97,0.752,0.488
+8,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
+9,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
 10,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,Sweet but Psycho,25sgk305KZfyuqVBQIahim,2018-08-17,96,0.719,0.704
-11,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,bury a friend,4NzMOnvSJVNKF7nw5NkXIP,2019-01-30,95,0.905,0.389
-12,Khalid,6LuN9FCkKOj5PcnpouEgny,Better,6zeeWid2sgw4lap2jV61PZ,2018-10-18,87,0.596,0.552
-13,Khalid,6LuN9FCkKOj5PcnpouEgny,Talk,0rTV5WefWd1J3OwIheTzxM,2019-02-07,91,0.9,0.4
-14,Kehlani,0cGUm45nv7Z6M6qdXYQGTX,Nights Like This (feat. Ty Dolla $ign),6ZRuF2n1CQxyxxAAWsKJOy,2019-02-22,68,0.61,0.725
-15,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
-16,Khalid,6LuN9FCkKOj5PcnpouEgny,Saturday Nights,5kfNriitmkNE8mUbZ7gbq8,2018-10-18,82,0.551,0.44
-17,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,Close To Me (with Diplo) (feat. Swae Lee),5JEx7HbmvHQQswJCsoo9rA,2018-10-24,91,0.574,0.758
-18,Meek Mill,20sxb77xiYeusSH8cVdatc,Going Bad (feat. Drake),2IRZnDFmlqMuOrYOLnZZyc,2018-11-30,94,0.889,0.496
-19,Lauv,5JZ7CnR6gTvEMKX4g70Amv,i'm so tired...,7COXchtUOMd6uIT6HvmRaI,2019-01-24,92,0.599,0.733
-20,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,Who Do You Love (with 5 Seconds of Summer),11cDEev79fPKi6uJCjUhu8,2019-02-07,89,0.51,0.835
-21,Lauv,5JZ7CnR6gTvEMKX4g70Amv,I Like Me Better,2P91MQbaiQOfbiz9VqhqKQ,2018-05-31,75,0.752,0.505
-22,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,High Hopes,1rqqCSm0Qe4I9rUvWncaom,2018-06-22,94,0.579,0.904
-23,5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,Youngblood,2iUXsYOEPhVqEBwsqP70rE,2018-06-15,86,0.596,0.854
-24,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,This Feeling,4NBTZtAt1F13VvlSKe6KTl,2018-12-14,87,0.575,0.571
-25,Post Malone,246dkjvS1zLTtiykXe5h60,Better Now,7dt6x5M1jzdTEt8oCbisTK,2018-04-27,92,0.68,0.563
-26,Cardi B,4kYSro6naA4h99UJvo89HB,Please Me,0PG9fbaaHFHfre2gUVo7AN,2019-02-15,87,0.747,0.57
-27,Black Coffee,6wMr4zKPrrR0UVz08WtUWc,Drive (feat. Delilah Montagu) - Edit,6X7PK2UQMUU36ux9pynSkV,2018-08-24,72,0.719,0.79
-28,Dynoro,3v6Ji4uoWtKRkhuDUaxi9n,In My Mind,0E9ZjEAyAwOXZ7wJC0PD33,2018-06-08,89,0.694,0.77
-29,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,2018-08-03,94,0.834,0.73
-30,21 Savage,1URnnhqYAYcrqrcwql10ft,a lot,2t8yVaLvJ0RenpXUIAC52d,2018-12-21,92,0.837,0.636
-31,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Giant (with Rag'n'Bone Man),5itOtNx0WxtJmi1TQ3RuRd,2019-01-11,92,0.807,0.887
-32,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,ZEZE (feat. Travis Scott & Offset),0FZ4Dmg8jJJAPJnvBIzD9z,2018-12-14,92,0.861,0.603
-33,Anne-Marie,1zNqDE7qDGCsyzJwohVaoX,2002,2BgEsaKNfHUdlh97KmvFyo,2018-04-27,85,0.697,0.683
+11,Khalid,6LuN9FCkKOj5PcnpouEgny,Better,6zeeWid2sgw4lap2jV61PZ,2018-10-18,87,0.596,0.552
+12,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,bury a friend,4NzMOnvSJVNKF7nw5NkXIP,2019-01-30,96,0.905,0.389
+13,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,Close To Me (with Diplo) (feat. Swae Lee),5JEx7HbmvHQQswJCsoo9rA,2018-10-24,91,0.574,0.758
+14,Khalid,6LuN9FCkKOj5PcnpouEgny,Saturday Nights,5kfNriitmkNE8mUbZ7gbq8,2018-10-18,82,0.551,0.44
+15,Khalid,6LuN9FCkKOj5PcnpouEgny,Talk,0rTV5WefWd1J3OwIheTzxM,2019-02-07,91,0.9,0.4
+16,Meek Mill,20sxb77xiYeusSH8cVdatc,Going Bad (feat. Drake),2IRZnDFmlqMuOrYOLnZZyc,2018-11-30,95,0.889,0.496
+17,Lauv,5JZ7CnR6gTvEMKX4g70Amv,I Like Me Better,2P91MQbaiQOfbiz9VqhqKQ,2018-05-31,75,0.752,0.505
+18,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,2019-02-08,89,0.735,0.638
+19,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,Who Do You Love (with 5 Seconds of Summer),11cDEev79fPKi6uJCjUhu8,2019-02-07,90,0.51,0.835
+20,Kehlani,0cGUm45nv7Z6M6qdXYQGTX,Nights Like This (feat. Ty Dolla $ign),6ZRuF2n1CQxyxxAAWsKJOy,2019-02-22,73,0.61,0.725
+21,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,This Feeling,4NBTZtAt1F13VvlSKe6KTl,2018-12-14,87,0.575,0.571
+22,5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,Youngblood,2iUXsYOEPhVqEBwsqP70rE,2018-06-15,86,0.596,0.854
+23,Black Coffee,6wMr4zKPrrR0UVz08WtUWc,Drive (feat. Delilah Montagu) - Edit,6X7PK2UQMUU36ux9pynSkV,2018-08-24,72,0.719,0.79
+24,Lauv,5JZ7CnR6gTvEMKX4g70Amv,i'm so tired...,7COXchtUOMd6uIT6HvmRaI,2019-01-24,92,0.599,0.733
+25,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,High Hopes,1rqqCSm0Qe4I9rUvWncaom,2018-06-22,94,0.579,0.904
+26,Post Malone,246dkjvS1zLTtiykXe5h60,Better Now,7dt6x5M1jzdTEt8oCbisTK,2018-04-27,92,0.68,0.563
+27,Dynoro,3v6Ji4uoWtKRkhuDUaxi9n,In My Mind,0E9ZjEAyAwOXZ7wJC0PD33,2018-06-08,89,0.694,0.77
+28,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Giant (with Rag'n'Bone Man),5itOtNx0WxtJmi1TQ3RuRd,2019-01-11,92,0.807,0.887
+29,21 Savage,1URnnhqYAYcrqrcwql10ft,a lot,2t8yVaLvJ0RenpXUIAC52d,2018-12-21,92,0.837,0.636
+30,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,2018-08-03,94,0.834,0.73
+31,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,ZEZE (feat. Travis Scott & Offset),0FZ4Dmg8jJJAPJnvBIzD9z,2018-12-14,92,0.861,0.603
+32,Anne-Marie,1zNqDE7qDGCsyzJwohVaoX,2002,2BgEsaKNfHUdlh97KmvFyo,2018-04-27,85,0.697,0.683
+33,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,Robbery,44ShclXTOOnYtt5CnCDeGV,2019-02-13,87,0.708,0.691
 34,Blueface,3Fl1V19tmjt57oBdxXKAjJ,Thotiana,3oh6SCCeLuXhFpEyepla6G,2018-12-18,91,0.906,0.382
-35,Loud Luxury,6t1gpxYbY8OlLA7D2RiikQ,Body (feat. brando),7K7MUBCnzgBAvMVW2RTWNs,2017-10-27,68,0.752,0.764
-36,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,Robbery,44ShclXTOOnYtt5CnCDeGV,2019-02-13,85,0.708,0.691
-37,Bazzi,4GvEc3ANtPPjt1ZJllr5Zl,Beautiful (feat. Camila Cabello),4VUwkH455At9kENOfzTqmF,2018-08-02,88,0.638,0.717
-38,Alec Benjamin,5IH6FPUwQTxPSXurCrcIov,Let Me Down Slowly,2qxmye6gAegTMjLKEBoR3d,2018-11-16,90,0.652,0.557
-39,Dean Lewis,3QSQFmccmX81fWCUSPTS7y,Be Alright,3EPXxR3ImUwfayaurPi3cm,2018-06-29,92,0.553,0.586
-40,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,Hope,4BiiOzZCrXEzHRLYcYFiD5,2018-12-14,89,0.773,0.699
-41,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,when the party's over,14JzyD6FlBD5z0wV5P07YI,2018-10-17,92,0.498,0.104
-42,Sheck Wes,2RDOrhPqAM4jzTRCEb19qX,Mo Bamba,1xzBco0xcoJEDXktl7Jxrr,2018-10-05,92,0.729,0.625
-43,Maroon 5,04gDigrS5kc9YWfZHwBETP,Girls Like You (feat. Cardi B),7fa9MBXhVfQ8P8Df9OEbD8,2018-06-15,83,0.851,0.541
-44,Martin Garrix,60d24wfXkVzDSfLS6hyCjZ,Ocean (feat. Khalid),3nc420PXjTdBV5TN0gCFkS,2018-06-15,84,0.506,0.693
-45,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,Legacy (feat. Travis Scott & 21 Savage),7pMRoGLEJuFM2wl5pt0R99,2019-02-22,78,0.844,0.513
+35,Cardi B,4kYSro6naA4h99UJvo89HB,Please Me,0PG9fbaaHFHfre2gUVo7AN,2019-02-15,88,0.747,0.57
+36,Bazzi,4GvEc3ANtPPjt1ZJllr5Zl,Beautiful (feat. Camila Cabello),4VUwkH455At9kENOfzTqmF,2018-08-02,89,0.638,0.717
+37,Loud Luxury,6t1gpxYbY8OlLA7D2RiikQ,Body (feat. brando),7K7MUBCnzgBAvMVW2RTWNs,2017-10-27,68,0.752,0.764
+38,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,Hope,4BiiOzZCrXEzHRLYcYFiD5,2018-12-14,88,0.773,0.699
+39,Alec Benjamin,5IH6FPUwQTxPSXurCrcIov,Let Me Down Slowly,2qxmye6gAegTMjLKEBoR3d,2018-11-16,90,0.652,0.557
+40,Dean Lewis,3QSQFmccmX81fWCUSPTS7y,Be Alright,3EPXxR3ImUwfayaurPi3cm,2018-06-29,92,0.553,0.586
+41,Martin Garrix,60d24wfXkVzDSfLS6hyCjZ,Ocean (feat. Khalid),3nc420PXjTdBV5TN0gCFkS,2018-06-15,84,0.506,0.693
+42,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,when the party's over,14JzyD6FlBD5z0wV5P07YI,2018-10-17,92,0.498,0.104
+43,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Promises (with Sam Smith),5N5k9nd479b1xpDZ4usjrg,2018-08-17,90,0.781,0.768
+44,Maroon 5,04gDigrS5kc9YWfZHwBETP,Girls Like You (feat. Cardi B),7fa9MBXhVfQ8P8Df9OEbD8,2018-06-15,83,0.851,0.541
+45,Mustard,0YinUQ50QDB7ZxSCLyQ40k,Pure Water (with Migos),63cd4JkwGgYJrbOizbfmsp,2019-01-16,89,0.68,0.559
 46,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,lovely,1NJcg626wLln4pGHpiV7mf,2017-08-11,64,0.351,0.296
-47,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Promises (with Sam Smith),5N5k9nd479b1xpDZ4usjrg,2018-08-17,90,0.781,0.768
-48,YUNGBLUD,6Ad91Jof8Niiw0lGLLi3NW,11 Minutes (with Halsey feat. Travis Barker),4mGdjNMo0RonTlOEb7cYg4,2019-02-14,83,0.464,0.852
-49,Cardi B,4kYSro6naA4h99UJvo89HB,Money,2GGMabyHXnJmjY6CXhhB2e,2018-10-23,89,0.95,0.59
+47,Sheck Wes,2RDOrhPqAM4jzTRCEb19qX,Mo Bamba,1xzBco0xcoJEDXktl7Jxrr,2018-10-05,92,0.729,0.625
+48,George Ezra,2ysnwxxNtSgbb9t1m2Ur4j,Shotgun,4ofwffwvvnbSkrMSCKQDaC,2018-03-23,87,0.672,0.735
+49,Zedd,2qxJFvFYMEDqd7ui6kSAcq,Happy Now,4keoy2fqgwGnbWlm3ZVZFa,2018-07-18,84,0.503,0.741
