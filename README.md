@@ -5,8 +5,8 @@
 
 * [Spotify's API](https://developer.spotify.com/documentation/web-api/) - Where we collected our data from
 * [Converting To Excel with Playlist ID](link to github jn) - Pulling from Spotify's API
-1. We created an excel sheet that listed the playlist IDs of each country's Top 50 Songs, which we pulled directly from the Spotify application. See [Top 50 playlists](link to github jn).
-2. We used nested for loops to pull audio data for each track in each country's playlist.
+	* We created an excel sheet that listed the playlist IDs of each country's Top 50 Songs, which we pulled directly from the Spotify application. See [Top 50 playlists](link to github jn).
+	* We used nested for loops to pull audio data for each track in each country's playlist.
 * [Datasets](link to github jn) - CSV outputs of each country's top 50 playlist
 * [Clean up](link to github jn) - How we cleaned our data
 
