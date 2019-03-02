@@ -1,8 +1,14 @@
-# Ignore client file storing authentication ID and Password
+# Ignore client file storing authentication ID and Password #
 client.py
 
-# Ignore Folders
+
+
+# Ignore Folders #
+
 .vs
-_pycache_
+/*
+_pycache_/*
+
 .ipynb_checkpoints
-.git
+/*
+.git/*
