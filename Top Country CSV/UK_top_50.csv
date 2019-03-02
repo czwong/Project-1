@@ -1,13 +1,13 @@
 ,Artists Name,Artist ID,Track Name,Track ID,Release Date,Popularity,Danceability,Energy
 0,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,2019-02-08,98,0.726,0.545
-1,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Someone You Loved,2TIlqbIneP0ZY1O0EzYLlc,2018-11-08,89,0.501,0.405
-2,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,93,0.771,0.32
-3,Mabel,1MIVXf74SZHmTIp4V4paH4,Don't Call Me Up,5WHTFyqSii0lmT9R21abT8,2019-01-18,88,0.674,0.881
+1,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,7 rings,6ocbgoVGwYJhOv1GgI9NsF,2019-02-08,93,0.771,0.32
+2,Mabel,1MIVXf74SZHmTIp4V4paH4,Don't Call Me Up,5WHTFyqSii0lmT9R21abT8,2019-01-18,88,0.674,0.881
+3,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Someone You Loved,2TIlqbIneP0ZY1O0EzYLlc,2018-11-08,89,0.501,0.405
 4,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Giant (with Rag'n'Bone Man),5itOtNx0WxtJmi1TQ3RuRd,2019-01-11,92,0.807,0.887
 5,Post Malone,246dkjvS1zLTtiykXe5h60,Wow.,6MWtB6iiXyIwun0YzU6DFP,2018-12-24,98,0.833,0.539
 6,Sam Smith,2wY79sveU1sp5g7SokKOiI,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,2019-01-11,96,0.741,0.52
-7,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,94,0.572,0.385
-8,NSG,31Ua7zSTJxegjyd49ujbSA,Options,2cytBOLpwFRX7J9URCrFIe,2018-11-30,80,0.836,0.621
+7,NSG,31Ua7zSTJxegjyd49ujbSA,Options,2cytBOLpwFRX7J9URCrFIe,2018-11-30,80,0.836,0.621
+8,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,94,0.572,0.385
 9,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,bury a friend,4NzMOnvSJVNKF7nw5NkXIP,2019-01-30,96,0.905,0.389
 10,Various Artists,0LyfQWJT6nXafLPZqxe9Of,Sunflower - Spider-Man: Into the Spider-Verse,7dbka99KTWke5o9hRp0JoB,2019-02-22,79,0.761,0.479
 11,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,Sweet but Psycho,25sgk305KZfyuqVBQIahim,2018-08-17,96,0.719,0.704
@@ -16,36 +16,36 @@
 14,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,MIDDLE CHILD,2JvzF1RMd7lE3KmFlsyZD8,2019-01-23,95,0.837,0.364
 15,Meek Mill,20sxb77xiYeusSH8cVdatc,Going Bad (feat. Drake),2IRZnDFmlqMuOrYOLnZZyc,2018-11-30,95,0.889,0.496
 16,Khalid,6LuN9FCkKOj5PcnpouEgny,Talk,0rTV5WefWd1J3OwIheTzxM,2019-02-07,91,0.9,0.4
-17,YNW Melly,1cNDP5yjU5vjeR8qMf4grg,Murder On My Mind,7eBqSVxrzQZtK2mmgRG6lC,2018-08-03,89,0.759,0.73
-18,Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,Nothing Breaks Like a Heart (feat. Miley Cyrus),27rdGxbavYJeBphck5MZAF,2018-11-30,92,0.601,0.794
+17,Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,Nothing Breaks Like a Heart (feat. Miley Cyrus),27rdGxbavYJeBphck5MZAF,2018-11-30,92,0.601,0.794
+18,YNW Melly,1cNDP5yjU5vjeR8qMf4grg,Murder On My Mind,7eBqSVxrzQZtK2mmgRG6lC,2018-08-03,89,0.759,0.73
 19,Tom Walker,7z2avKuuiMAT4XZJFv8Rvh,Just You and I,4Fvtl6P5d8h2lzzwhUCHHD,2017-10-13,68,0.567,0.696
 20,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Happier,2dpaYNEQHiRxtZbfNsse99,2018-08-17,97,0.687,0.792
 21,Cadet,1Gm0kKaDx4GH6pQF88rjSK,Advice,1fp2uoWXPca3mIdxRHIgQm,2018-09-14,76,0.911,0.529
 22,Halsey,26VFTg2z8YR0cCuwLzESi2,Without Me,5p7ujcrUXASCNwRaWNHR1C,2018-10-04,97,0.752,0.488
-23,Kehlani,0cGUm45nv7Z6M6qdXYQGTX,Nights Like This (feat. Ty Dolla $ign),6ZRuF2n1CQxyxxAAWsKJOy,2019-02-22,73,0.61,0.725
-24,George Ezra,2ysnwxxNtSgbb9t1m2Ur4j,Shotgun,4ofwffwvvnbSkrMSCKQDaC,2018-03-23,87,0.672,0.735
+23,George Ezra,2ysnwxxNtSgbb9t1m2Ur4j,Shotgun,4ofwffwvvnbSkrMSCKQDaC,2018-03-23,87,0.672,0.735
+24,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,2018-08-03,94,0.834,0.73
 25,Blueface,3Fl1V19tmjt57oBdxXKAjJ,Thotiana,3oh6SCCeLuXhFpEyepla6G,2018-12-18,91,0.906,0.382
-26,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,2018-08-03,94,0.834,0.73
-27,benny blanco,5CiGnKThu5ctn9pBxv7DGa,Eastside (with Halsey & Khalid),7FGq80cy8juXBCD2nrqdWU,2018-12-07,83,0.632,0.686
-28,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,bad idea,7EQpvVujgytLVY8vKiDHAg,2018-02-07,72,0.86,0.582
-29,P!nk,1KCSPY1glIKqW2TotWuXOR,Walk Me Home,7DHApOHsIFo7EyfieArYGE,2019-02-20,80,0.652,0.453
-30,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,High Hopes,1rqqCSm0Qe4I9rUvWncaom,2018-06-22,94,0.579,0.904
-31,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,Swervin (feat. 6ix9ine),1wJRveJZLSb1rjhnUHQiv6,2018-12-21,89,0.581,0.662
-32,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,Robbery,44ShclXTOOnYtt5CnCDeGV,2019-02-13,87,0.708,0.691
-33,D-Block Europe,5VadK1havLhK1OpKYsXv9y,Kitchen Kings,1RJHieKAxYz9qbREvOR5eA,2019-02-15,64,0.652,0.727
-34,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Promises (with Sam Smith),5N5k9nd479b1xpDZ4usjrg,2018-08-17,90,0.781,0.768
-35,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,bloodline,2hloaUoRonYssMuqLCBLTX,2019-02-08,91,0.765,0.663
-36,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,needy,1TEL6MlSSVLSdhOSddidlJ,2019-02-08,91,0.607,0.314
-37,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Grace,4eQBL0cuF3ismYCzBff2Ii,2018-09-21,77,0.733,0.533
-38,Jax Jones,4Q6nIcaBED8qUel8bBx6Cr,Play,29R1IMTTbDDA3VNlk6UEW5,2018-11-28,81,0.771,0.768
-39,Post Malone,246dkjvS1zLTtiykXe5h60,Better Now,7dt6x5M1jzdTEt8oCbisTK,2018-04-27,92,0.68,0.563
-40,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,ZEZE (feat. Travis Scott & Offset),0FZ4Dmg8jJJAPJnvBIzD9z,2018-12-14,92,0.861,0.603
+26,benny blanco,5CiGnKThu5ctn9pBxv7DGa,Eastside (with Halsey & Khalid),7FGq80cy8juXBCD2nrqdWU,2018-12-07,83,0.632,0.686
+27,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,bad idea,7EQpvVujgytLVY8vKiDHAg,2018-02-07,72,0.86,0.582
+28,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,High Hopes,1rqqCSm0Qe4I9rUvWncaom,2018-06-22,94,0.579,0.904
+29,Kehlani,0cGUm45nv7Z6M6qdXYQGTX,Nights Like This (feat. Ty Dolla $ign),6ZRuF2n1CQxyxxAAWsKJOy,2019-02-22,73,0.61,0.725
+30,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Promises (with Sam Smith),5N5k9nd479b1xpDZ4usjrg,2018-08-17,90,0.781,0.768
+31,P!nk,1KCSPY1glIKqW2TotWuXOR,Walk Me Home,7DHApOHsIFo7EyfieArYGE,2019-02-20,80,0.652,0.453
+32,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,Swervin (feat. 6ix9ine),1wJRveJZLSb1rjhnUHQiv6,2018-12-21,89,0.581,0.662
+33,Jax Jones,4Q6nIcaBED8qUel8bBx6Cr,Play,29R1IMTTbDDA3VNlk6UEW5,2018-11-28,81,0.771,0.768
+34,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,bloodline,2hloaUoRonYssMuqLCBLTX,2019-02-08,91,0.765,0.663
+35,D-Block Europe,5VadK1havLhK1OpKYsXv9y,Kitchen Kings,1RJHieKAxYz9qbREvOR5eA,2019-02-15,64,0.652,0.727
+36,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,Robbery,44ShclXTOOnYtt5CnCDeGV,2019-02-13,87,0.708,0.691
+37,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,needy,1TEL6MlSSVLSdhOSddidlJ,2019-02-08,91,0.607,0.314
+38,Post Malone,246dkjvS1zLTtiykXe5h60,Better Now,7dt6x5M1jzdTEt8oCbisTK,2018-04-27,92,0.68,0.563
+39,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,ZEZE (feat. Travis Scott & Offset),0FZ4Dmg8jJJAPJnvBIzD9z,2018-12-14,92,0.861,0.603
+40,Loud Luxury,6t1gpxYbY8OlLA7D2RiikQ,Body (feat. brando),7K7MUBCnzgBAvMVW2RTWNs,2017-10-27,68,0.752,0.764
 41,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,NASA,4SPu0Ql902hTVXkBoNIYtq,2018-02-07,73,0.597,0.458
 42,Cardi B,4kYSro6naA4h99UJvo89HB,Please Me,0PG9fbaaHFHfre2gUVo7AN,2019-02-15,88,0.747,0.57
-43,Dave,6Ip8FS7vWT1uKkJSweANQK,Funky Friday,01IQ4aQgOf0Kkq3a273hmO,2018-10-04,76,0.975,0.535
-44,21 Savage,1URnnhqYAYcrqrcwql10ft,a lot,2t8yVaLvJ0RenpXUIAC52d,2018-12-21,92,0.837,0.636
+43,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Grace,4eQBL0cuF3ismYCzBff2Ii,2018-09-21,77,0.733,0.533
+44,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,Undecided,7uiBocndm12aKbsdnQ3Scx,2019-01-04,86,0.441,0.527
 45,Tyga,5LHRHt1k9lMyONurDHEdrp,Taste (feat. Offset),5IaHrVsrferBYDm0bDyABy,2018-05-16,89,0.884,0.559
-46,Loud Luxury,6t1gpxYbY8OlLA7D2RiikQ,Body (feat. brando),7K7MUBCnzgBAvMVW2RTWNs,2017-10-27,68,0.752,0.764
-47,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,Undecided,7uiBocndm12aKbsdnQ3Scx,2019-01-04,86,0.441,0.527
+46,21 Savage,1URnnhqYAYcrqrcwql10ft,a lot,2t8yVaLvJ0RenpXUIAC52d,2018-12-21,92,0.837,0.636
+47,Dave,6Ip8FS7vWT1uKkJSweANQK,Funky Friday,01IQ4aQgOf0Kkq3a273hmO,2018-10-04,76,0.975,0.535
 48,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,imagine,39LmTF9RgyakzSYX8txrow,2019-02-08,89,0.709,0.474
-49,Queen,1dfeR4HaWDbWqFHLkxsg1d,Bohemian Rhapsody - Remastered 2011,7tFiyTwD0nx5a1eklYtX2J,1975-11-21,81,0.397,0.396
+49,Little Mix,3e7awlrlDSwF3iM0WBjGMp,Think About Us (feat. Ty Dolla $ign),18n2GdCpsHYzkbMKPavE7Y,2019-01-25,76,0.511,0.795
