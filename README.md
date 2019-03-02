@@ -11,10 +11,10 @@
 * [Clean up](link to github jn) - How we cleaned our data
 
 ## Data Exploration
-* [Danceability by Country](link to github jn) - Loops through each country's playlist data to examine danceability scores. See [box plot](link to github png)
+* [Danceability by Country](link to github jn) - Loops through each country's playlist data to examine danceability scores. See [box plot](https://github.com/czwong/Project-1/blob/master/Images/Danceability__Per_Country_Boxplot.png)
 * [Genre Popularity in US](link to github jn) - Loops through the Top 50 Songs of the US to count and display all genres in the playlist. See [bar graph](link to github png)
-* [Danceability scores of the top 3 genres in the US](link to github png) - Pop, Rap and Trap dominates the charts.
-* [Genre Popularity by Country](link to github jn) - Loops through each country's playlist data to count the number times pop, rap, trap and other genres show up in the top charts. See [bar graph](link to github png)
+* [Danceability scores of the top 3 genres in the US](https://github.com/czwong/Project-1/blob/master/Images/Top_3_Genre_Danceability_in_US_Boxplot.png) - Pop, Rap and Trap dominates the charts.
+* [Genre Popularity by Country](https://github.com/czwong/Project-1/blob/master/Genre%20Popularity%20Around%20the%20World.ipynb) - Loops through each country's playlist data to count the number times pop, rap, trap and other genres show up in the top charts. See [bar graph](https://github.com/czwong/Project-1/blob/master/Images/Percentage_of_Top_3_US_Genre_Per_Country.png)
 
 ## Final Notebook
 * [Analysis](link to github jn) - 
