@@ -1,5 +1,5 @@
 # Project-1
-This project conducts exploratory analysis on Spotify's top 50 songs by country to look for trends between genre, danceability, and popularity.
+This project conducts exploratory analysis on Spotify's top 50 songs by country to look for trends between genre, danceability, and popularity. See [Abstract](https://github.com/czwong/Project-1/blob/master/Abstract.ipynb)
 
 
 ## Data Collection
