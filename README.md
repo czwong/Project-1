@@ -17,4 +17,4 @@ This project conducts exploratory analysis on Spotify's top 50 songs by country 
 * [Genre Popularity by Country](https://github.com/czwong/Project-1/blob/master/Genre%20Popularity%20Around%20the%20World.ipynb) - Loops through each country's playlist data to count the number times pop, rap, trap and other genres show up in the top charts. See [bar graph](https://github.com/czwong/Project-1/blob/master/Images/Percentage_of_Top_3_US_Genre_Per_Country.png)
 
 ## Final Notebook
-* [Analysis](link to github jn) - 
+* [Analysis](https://github.com/czwong/Project-1/blob/master/Final%20Presentation.ipynb)
