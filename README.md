@@ -4,9 +4,10 @@ This project conducts exploratory analysis on Spotify's top 50 songs by country 
 
 ## Data Collection
 
+* [Spotify Top 50 Playlist ID](https://github.com/czwong/Project-1/blob/master/Top50_Playlist_by_Country.xlsm) - Extract Playlist ID from playlist url to access json metadata from spotify playlist endpoint
 * [Spotify's API](https://developer.spotify.com/documentation/web-api/) - Where we collected our data from
 * [Converting To Excel with Playlist ID](https://github.com/czwong/Project-1/blob/master/Converting%20To%20Excel%20with%20Playlist%20ID.ipynb) - Pulling from Spotify's API
-	* We created an excel sheet that listed the playlist IDs of each country's Top 50 Songs, which we pulled directly from the Spotify application. See [Top 50 playlists](https://github.com/czwong/Project-1/blob/master/Top50_Playlist_by_Country.xlsm).
+	* We created an excel sheets that listed the playlist IDs of each country's Top 50 Songs, which we pulled directly from the Spotify application. See [Top 50 playlists](https://github.com/czwong/Project-1/blob/master/Top50_Playlist_by_Country.xlsm).
 	* We used nested for loops to pull audio data for each track in each country's playlist.
 * [Datasets](https://github.com/czwong/Project-1/tree/master/Top%20Country%20CSV) - CSV outputs of each country's top 50 playlist
 
