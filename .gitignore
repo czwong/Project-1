@@ -2,10 +2,6 @@
 
 client.py
 
-
-
-
-
 # Ignore Folders #
 
 
@@ -18,4 +14,3 @@ _pycache_/*
 .ipynb_checkpoints
 /*
 
-.git/*
